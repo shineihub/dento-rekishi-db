@@ -1,5 +1,5 @@
 {
- "retrieved": "2026-11-21",
+ "retrieved": "2026-11-22",
  "sources": [
   {
    "id": "A01",
@@ -1479,9 +1479,9 @@
   },
   {
    "id": "F120",
-   "type": "報道・解説",
-   "title": "nippon.comの記事(東京大空襲。出撃機数の記述。題名は未確認)",
-   "url": "https://www.nippon.com/ja/japan-topics/today03100/"
+   "type": "解説記事(nippon.com・抜粋のみ)",
+   "title": "nippon.com「今日は何の日:4月23日」(明治天皇の伊勢神宮参拝)",
+   "url": "https://www.nippon.com/ja/japan-topics/today0423/"
   },
   {
    "id": "F121",
@@ -1650,6 +1650,630 @@
    "type": "公的機関(国立国会図書館)(URL未確認)",
    "title": "津田左右吉の起訴(1940年)について。検索用:「近代日本人の肖像 津田左右吉」(国立国会図書館)。URLは未確認",
    "url": ""
+  },
+  {
+   "id": "F149",
+   "type": "公文書(アジア歴史資料センター)",
+   "title": "「通州事件」陸軍恤兵部『支那事変 戦跡の栞 上巻』(1938)アジア歴史資料センター Ref.C11110548700(防衛省防衛研究所所蔵。目録の要旨までの確認)",
+   "url": "https://www.jacar.archives.go.jp/das/meta/C11110548700"
+  },
+  {
+   "id": "F150",
+   "type": "公文書(アジア歴史資料センター)",
+   "title": "「(附録)通州事件ノ梗概」杉田一次史料 アジア歴史資料センター Ref.C16120025300(防衛省防衛研究所所蔵。目録の要旨までの確認、本文画像は未読)",
+   "url": "https://www.jacar.archives.go.jp/das/meta/C16120025300"
+  },
+  {
+   "id": "F151",
+   "type": "書籍(出版社の紹介のみ)",
+   "title": "広中一成『通州事件 日中戦争泥沼化への道』星海社新書、2016(講談社の書誌ページのみ確認、本文未読。著者は中国近現代史・日中戦争史の研究者)",
+   "url": "https://www.kodansha.co.jp/book/products/0000025464"
+  },
+  {
+   "id": "F152",
+   "type": "寄稿(著者本人)",
+   "title": "広中一成「通州事件が遺した傷痕」ジセダイ総研(本人寄稿。通州事件が報道でプロパガンダに利用されたとする記述)",
+   "url": "https://ji-sedai.jp/series/research/074.html"
+  },
+  {
+   "id": "F153",
+   "type": "辞典(山川出版社)",
+   "title": "山川出版社ヒストリスト「通州事件」",
+   "url": "https://www.historist.jp/word_j_tsu/entry/035135/"
+  },
+  {
+   "id": "F154",
+   "type": "報道(ニューズウィーク日本版)",
+   "title": "「アパホテル書籍で言及された『通州事件』の歴史事実」ニューズウィーク日本版、2017年1月(回答者名は抜粋では未確認)",
+   "url": "https://www.newsweekjapan.jp/stories/world/2017/01/post-6773_1.php"
+  },
+  {
+   "id": "F155",
+   "type": "百科事典(英語版Wikipedia。数値の幅の参考にとどめ、独立した裏付けには数えない)",
+   "title": "Tongzhou mutiny",
+   "url": "https://en.wikipedia.org/wiki/Tongzhou_mutiny"
+  },
+  {
+   "id": "F156",
+   "type": "判例解説(TKCローライブラリー)",
+   "title": "「新・判例解説Watch 国際公法No.35 重慶爆撃訴訟」2016年1月(東京地裁2015年2月25日判決の解説。本文確認済)",
+   "url": "https://ls.lawlibrary.jp/commentary/pdf/z18817009-00-090351294_tkc.pdf"
+  },
+  {
+   "id": "F157",
+   "type": "報道(琉球新報)",
+   "title": "琉球新報「重慶爆撃、中国人遺族ら敗訴 東京地裁、請求権認めず」",
+   "url": "https://ryukyushimpo.jp/news/prentry-239487.html"
+  },
+  {
+   "id": "F158",
+   "type": "書籍(出版社の目次のみ)",
+   "title": "潘洵(徐勇・波多野澄雄監修)『重慶大爆撃の研究』岩波書店、2016(出版社ページと立ち読みPDFの目次のみ確認、本文未読)",
+   "url": "https://www.iwanami.co.jp/book/b265037.html"
+  },
+  {
+   "id": "F159",
+   "type": "学術誌(Asia-Pacific Journal: Japan Focus)",
+   "title": "Yuki Tanaka \"Firebombing and Atom Bombing\"(重慶爆撃の死者数に言及。抜粋のみ)",
+   "url": "https://apjjf.org/yuki-tanaka/1582/article"
+  },
+  {
+   "id": "F160",
+   "type": "学術誌(Cambridge University Press・抜粋のみ)",
+   "title": "\"A Wartime Stampede: Renewing a Social Contract after the Great Tunnel Disaster of Chongqing\", International Journal of Asian Studies(隧道惨案の死者数の議論。抜粋のみ)",
+   "url": "https://www.cambridge.org/core/journals/international-journal-of-asian-studies/article/wartime-stampede-renewing-a-social-contract-after-the-great-tunnel-disaster-of-chongqing/706A875D63192F82219A10673EF8DFE0"
+  },
+  {
+   "id": "F161",
+   "type": "報道(中国新聞)",
+   "title": "中国新聞ヒロシマ平和メディア「ヒロシマドキュメント 1939年5月 重慶爆撃」(潘洵の著書の要約を含む。抜粋のみ)",
+   "url": "https://www.hiroshimapeacemedia.jp/?p=161636"
+  },
+  {
+   "id": "F162",
+   "type": "報道(時事通信)",
+   "title": "時事通信「特攻、陸・海軍6371人戦死 終戦10カ月前に開始」2026年8月13日(特攻隊戦没者慰霊顕彰会の集計を報じる)",
+   "url": "https://www.jiji.com/jc/article?k=2026081300692&g=soc"
+  },
+  {
+   "id": "F163",
+   "type": "報道(現代ビジネス・筆者はジャーナリスト)",
+   "title": "神立尚紀「味方の死者数に対して、敵の死者数はどれくらいだったのか」現代ビジネス(抜粋のみ)",
+   "url": "https://gendai.media/articles/-/168325"
+  },
+  {
+   "id": "F164",
+   "type": "インタビュー(文春オンライン)",
+   "title": "一ノ瀬俊也(日本近現代史)『特攻隊員の現実』をめぐる著者インタビュー(特攻の志願・命令をめぐる論争についての発言)",
+   "url": "https://bunshun.jp/articles/-/36604"
+  },
+  {
+   "id": "F165",
+   "type": "学術誌ではない専門誌(米海軍協会)",
+   "title": "Rikihei Inoguchi & Tadashi Nakajima \"Kamikazes and the Okinawa Campaign\", U.S. Naval Institute Proceedings, May 1954(当事者である旧海軍参謀の記述)",
+   "url": "https://www.usni.org/magazines/proceedings/1954/may/kamikazes-and-okinawa-campaign"
+  },
+  {
+   "id": "F166",
+   "type": "学位論文(M.Phil)",
+   "title": "Bill Gordon \"Last Writings of Japan's Special Attack Corps Members\"(特攻隊員の遺書の研究。志願・命令の例を日本語文献から引く。本文は抜粋のみ)",
+   "url": "https://www.kamikazeimages.net/writings/Gordon-MPhilThesis-LastWritingsOfJapan'sSACMembers.pdf"
+  },
+  {
+   "id": "F167",
+   "type": "学術論文(抜粋のみ)",
+   "title": "権学俊「植民地朝鮮における飛行機表象と朝鮮総督府の航空政策(下)」『立命館産業社会論集』58巻1号(朝鮮人の飛行兵・特攻隊員の志願背景を論じる。本文未読)",
+   "url": "https://ritsumei.repo.nii.ac.jp/record/17616/files/is_58_1%20_kwon.pdf"
+  },
+  {
+   "id": "F168",
+   "type": "学術論文(抜粋のみ)",
+   "title": "権学俊「韓国における朝鮮人特攻隊員像の変容」『立命館産業社会論集』52巻4号、2017(本文未読)",
+   "url": "https://www.ritsumei.ac.jp/file.jsp?id=333190"
+  },
+  {
+   "id": "F169",
+   "type": "公的機関(科学研究費助成事業データベース)",
+   "title": "科研費 21K00899(朝鮮人・台湾人特攻隊員の顕彰・記憶の研究。研究概要のみ)",
+   "url": "https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-21K00899"
+  },
+  {
+   "id": "F170",
+   "type": "書籍の抜粋(現代ビジネス)",
+   "title": "鴻上尚史『不死身の特攻兵 軍神はなぜ上官に反抗したか』(講談社現代新書)の抜粋記事。著者は作家・演出家で歴史学者ではなく、佐々木友次伍長1人の事例",
+   "url": "https://gendai.media/articles/-/53497"
+  },
+  {
+   "id": "F171",
+   "type": "報道(現代ビジネス・筆者はジャーナリスト)",
+   "title": "特攻から帰還した江名武彦氏の証言(学徒出陣、意思を聞かれず特攻隊員になったとする記事。1人の証言)",
+   "url": "https://gendai.media/articles/-/50145"
+  },
+  {
+   "id": "F172",
+   "type": "報道(現代ビジネス・筆者はジャーナリスト)",
+   "title": "神立尚紀の取材記事(元特攻隊員の相反する証言を並べる。抜粋のみ)",
+   "url": "https://gendai.media/articles/-/55270"
+  },
+  {
+   "id": "F173",
+   "type": "学術論文(本文確認済)",
+   "title": "Bob Tadashi Wakabayashi \"Documents on Japanese Poison Gas Warfare in China\", Sino-Japanese Studies 7(1)(米陸軍省情報部ファイルI.B.152-Aの転写を含む)",
+   "url": "https://chinajapan.org/articles/07.1/07.1wakabayashi3-33.pdf"
+  },
+  {
+   "id": "F174",
+   "type": "書誌(国立国会図書館)",
+   "title": "吉見義明『毒ガス戦と日本軍』岩波書店、2004(NDL書誌のみ確認、本文未読)",
+   "url": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007442626"
+  },
+  {
+   "id": "F175",
+   "type": "書籍(出版社の紹介のみ)",
+   "title": "吉見義明・松野誠也編『十五年戦争極秘資料集 補巻2 毒ガス戦関係資料II』不二出版、1997(出版社ページのみ確認)",
+   "url": "https://www.fujishuppan.co.jp/books/history/%E5%8D%81%E4%BA%94%E5%B9%B4%E6%88%A6%E4%BA%89%E6%A5%B5%E7%A7%98%E8%B3%87%E6%96%99%E9%9B%86%E3%80%80%E8%A3%9C%E5%B7%BB2%E3%80%80%E6%AF%92%E3%82%AC%E3%82%B9%E9%96%A2%E4%BF%82%E8%B3%87%E6%96%992/"
+  },
+  {
+   "id": "F176",
+   "type": "国会会議録(目次と一部のみ)",
+   "title": "第140回国会 参議院 外務委員会 第7号(1997年3月31日)(目次と一部発言のみ確認)",
+   "url": "https://kokkai.ndl.go.jp/simple/detail?minId=114013968X00719970331&spkNum=69"
+  },
+  {
+   "id": "F177",
+   "type": "公的機関(内閣府)",
+   "title": "内閣府 遺棄化学兵器の分類(旧日本軍の化学剤の種類。遺棄の事実を認めるもので、戦闘での使用の認否ではない)",
+   "url": "https://wwwa.cao.go.jp/acw/heiki.html"
+  },
+  {
+   "id": "F178",
+   "type": "公的機関(国立公文書館・本文確認)",
+   "title": "国立公文書館「明治元年(1868)3月 神仏分離令が出される」",
+   "url": "https://www.archives.go.jp/ayumi/kobetsu/m01_1868_03.html"
+  },
+  {
+   "id": "F179",
+   "type": "公的機関(国立国会図書館・抜粋のみ)",
+   "title": "国立国会図書館レファレンス協同データベース(神仏分離令・『法令全書』明治元年第196)",
+   "url": "https://crd.ndl.go.jp/reference/entry/index.php?page=ref_view&id=1000041366"
+  },
+  {
+   "id": "F180",
+   "type": "自治体(岐阜県東白川村・抜粋のみ)",
+   "title": "東白川村「東白川村の廃仏毀釈」",
+   "url": "https://www.vill.higashishirakawa.gifu.jp/syoukai/gaiyo/archive/haibutsukishaku/?p=15"
+  },
+  {
+   "id": "F181",
+   "type": "学術誌(J-STAGE・抜粋のみ)",
+   "title": "『近創史』No.14(2012)(薩摩の廃仏毀釈の数字を載せる)",
+   "url": "https://www.jstage.jst.go.jp/article/rcmcjs/14/0/14_61/_pdf/-char/ja"
+  },
+  {
+   "id": "F182",
+   "type": "学術論文(抜粋のみ)",
+   "title": "宇治伸「神仏分離における地域の社会構造と伝統文化」『高岡法科大学紀要』21",
+   "url": "https://www.jstage.jst.go.jp/article/takahokiyo/21/0/21_KJ00006260959/_pdf/-char/ja"
+  },
+  {
+   "id": "F183",
+   "type": "公的機関(松本城管理事務所・抜粋のみ)",
+   "title": "松本城管理事務所 ガイド資料9-1(松本藩の廃仏)",
+   "url": "https://www.oshiro-m.org/wp-content/uploads/2015/04/g9_1.pdf"
+  },
+  {
+   "id": "F184",
+   "type": "業界紙(中外日報・前半のみ確認)",
+   "title": "渡部淳(高知城歴史博物館館長)の論考、中外日報 2019年9月6日(土佐の廃寺の数字)",
+   "url": "https://www.chugainippoh.co.jp/article/ron-kikou/ron/20190906-001.html"
+  },
+  {
+   "id": "F185",
+   "type": "公的機関(科研費・研究成果)",
+   "title": "科研費 19520069(皇學館大学。度会府・三重県の行政文書の画像化。廃仏状況の検証は今後の課題とする)",
+   "url": "https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-19520069/"
+  },
+  {
+   "id": "F186",
+   "type": "書誌(国立国会図書館)",
+   "title": "安丸良夫『神々の明治維新』岩波新書、1979(書誌のみ確認、本文未読)",
+   "url": "https://ndlsearch.ndl.go.jp/en/books/R100000002-I000001438434"
+  },
+  {
+   "id": "F187",
+   "type": "報道(プレジデントオンライン)",
+   "title": "プレジデントオンライン(廃仏毀釈で寺院が半減したと「言われている」とする記事。算定の根拠は示されていない)",
+   "url": "https://president.jp/articles/-/27140?page=2"
+  },
+  {
+   "id": "F188",
+   "type": "公的機関(新潟県立図書館・抜粋のみ)",
+   "title": "新潟県立図書館「[第96話]宗門人別帳」",
+   "url": "https://www.pref-lib.niigata.niigata.jp/1b8446f94c08f7ae67441d7d895601a6/%E8%B6%8A%E5%BE%8C%E4%BD%90%E6%B8%A1%E3%83%92%E3%82%B9%E3%83%88%E3%83%AA%E3%82%A2/%EF%BC%BB%E7%AC%AC%EF%BC%99%EF%BC%96%E8%A9%B1%EF%BC%BD%E5%AE%97%E9%96%80%E4%BA%BA%E5%88%A5%E5%B8%B3"
+  },
+  {
+   "id": "F189",
+   "type": "大学の展示(慶應義塾大学文学部古文書室・抜粋のみ)",
+   "title": "慶應義塾大学文学部古文書室 展示 資料12(宗門人別帳)",
+   "url": "https://kmj.flet.keio.ac.jp/exhibition/2013/12.html"
+  },
+  {
+   "id": "F190",
+   "type": "学術論文(書誌確認のみ)",
+   "title": "朴澤直秀「寺檀制度に関する通念の形成:一家一寺制法令再論」『日本仏教綜合研究』8、2010(査読有)",
+   "url": "https://www.jstage.jst.go.jp/article/nbs/8/0/8_KJ00010021605/_article/-char/ja/"
+  },
+  {
+   "id": "F191",
+   "type": "学術論文(書誌確認のみ)",
+   "title": "ライアン・ワルド「圭室諦成著『葬式仏教』再考」『宗教研究』86(4)、2013",
+   "url": "https://www.jstage.jst.go.jp/article/rsjars/86/4/86_KJ00008935638/_article/-char/ja/"
+  },
+  {
+   "id": "F192",
+   "type": "学術論文(書誌・キーワードのみ)",
+   "title": "松尾剛次「葬式仏教の誕生」『智山学報』63、2014",
+   "url": "https://www.jstage.jst.go.jp/article/chisangakuho/63/0/63_KJ00009351664/_article/-char/ja/"
+  },
+  {
+   "id": "F193",
+   "type": "宗派の研究所(日蓮宗現代宗教研究所・抜粋のみ)",
+   "title": "日蓮宗現代宗教研究所「『葬式仏教』を考える」(圭室諦成『葬式仏教』の要約を含む)",
+   "url": "https://genshu.nichiren.or.jp/publications/post-4169/id-4169/"
+  },
+  {
+   "id": "F194",
+   "type": "大学博物館(國學院大學博物館・本文確認)",
+   "title": "國學院大學博物館「教派神道の教祖と儀礼」リーフレット(2015、監修:井上順孝)",
+   "url": "https://museum.kokugakuin.ac.jp/files/user/kyouha_leaflet.pdf"
+  },
+  {
+   "id": "F195",
+   "type": "学術論文(抜粋のみ)",
+   "title": "麻生将「近代日本におけるキリスト教と国家神道」(立命館大学)",
+   "url": "https://www.ritsumei.ac.jp/acd/cg/lt/rb/666/666PDF/aso.pdf"
+  },
+  {
+   "id": "F196",
+   "type": "学術論文(抜粋のみ)",
+   "title": "桂島宣弘「近代宗教制度の暴力」(立命館大学)",
+   "url": "https://www.ritsumei.ac.jp/~katsura/17.pdf"
+  },
+  {
+   "id": "F197",
+   "type": "教団の自己紹介(神道大教・抜粋のみ。当事者の説明)",
+   "title": "神道大教「教派神道とは」",
+   "url": "https://shintotaikyo.org/%E7%A5%9E%E9%81%93%E5%A4%A7%E6%95%99%E3%81%AE%E7%B4%B9%E4%BB%8B/%E7%A5%9E%E9%81%93%E5%A4%A7%E6%95%99%E3%81%A8%E3%81%AF/"
+  },
+  {
+   "id": "F198",
+   "type": "法学雑誌の記事(有斐閣『書斎の窓』)",
+   "title": "竹内康博「日本の墓地と墓地法制」『書斎の窓』2017年3月号",
+   "url": "https://www.yuhikaku.co.jp/static/shosai_mado/html/1703/02.html"
+  },
+  {
+   "id": "F199",
+   "type": "学術論文(抜粋のみ)",
+   "title": "森謙二「埋葬と法」(J-STAGE)",
+   "url": "https://www.jstage.jst.go.jp/article/jsl1951/2005/62/2005_62_87/_pdf/-char/ja"
+  },
+  {
+   "id": "F200",
+   "type": "自治体博物館(飯能市立博物館・抜粋のみ)",
+   "title": "飯能市立博物館「原市場・神葬祭の始まり」",
+   "url": "https://www.city.hanno.lg.jp/material/files/group/65/202311ippin.pdf"
+  },
+  {
+   "id": "F201",
+   "type": "学会資料(宗教法学会・抜粋のみ)",
+   "title": "宗教法学会資料(神葬祭と自葬禁止)",
+   "url": "http://religiouslaw.org/cgi/search/pdf/200806.pdf"
+  },
+  {
+   "id": "F202",
+   "type": "公的機関(国立国会図書館・本文確認)",
+   "title": "国立国会図書館「本の万華鏡」第38回 第二章(結婚式の歴史)",
+   "url": "https://www.ndl.go.jp/kaleido/38/2"
+  },
+  {
+   "id": "F203",
+   "type": "学術論文(抜粋のみ)",
+   "title": "武井謙悟「近代日本における神前結婚式の再検討」國學院大學(2024)",
+   "url": "https://www.kokugakuin.ac.jp/assets/uploads/2024/03/AR16-IJCC_04.pdf"
+  },
+  {
+   "id": "F204",
+   "type": "研究者情報(researchmap)",
+   "title": "researchmap 武井謙悟(「仏前結婚式 元祖は田中智学か」の報道の記録)",
+   "url": "https://researchmap.jp/takei_kengo/media_coverage/32863697"
+  },
+  {
+   "id": "F205",
+   "type": "当事者機関(神宮司庁・本文確認)",
+   "title": "神宮司庁「神宮の歴史」(神宮自身の説明。伝承を含むため、当事者の見解として扱う)",
+   "url": "https://www.isejingu.or.jp/about/history/"
+  },
+  {
+   "id": "F206",
+   "type": "当事者機関(明治神宮・抜粋のみ)",
+   "title": "明治神宮「神宮のことを第一に」(明治天皇の神宮親拝)",
+   "url": "https://www.meijijingu.or.jp/goitsuwa/?id=1649562803-791921"
+  },
+  {
+   "id": "F207",
+   "type": "学術論文(抜粋のみ)",
+   "title": "千葉慶「近代天皇制国家におけるアマテラス―両性具有性のゆくえ―」『ジェンダー史学』2(2006)(論者の専門は近代美術史の表象分析)",
+   "url": "https://www.jstage.jst.go.jp/article/genderhistory/2/0/2_0_5/_article/-char/ja/"
+  },
+  {
+   "id": "F208",
+   "type": "学術論文(抜粋のみ)",
+   "title": "日本大学『法務研究』16(明治天皇の神宮親拝についての記述)",
+   "url": "https://www.law.nihon-u.ac.jp/lawschool/academic_reserch/pdf/16/07homu-kenkyu16.pdf"
+  },
+  {
+   "id": "F209",
+   "type": "書籍(出版社の紹介のみ)",
+   "title": "田村圓澄『伊勢神宮の成立』吉川弘文館",
+   "url": "https://www.yoshikawa-k.co.jp/book/b34005.html"
+  },
+  {
+   "id": "F210",
+   "type": "公的機関(文化庁・抜粋のみ)",
+   "title": "文化庁「国語施策年表(明治35年〜昭和20年)」",
+   "url": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/sisaku/nenpyo/pdf/nenpyo_meiji35-syowa20.pdf"
+  },
+  {
+   "id": "F211",
+   "type": "学術論文(抜粋のみ)",
+   "title": "「明治中期の国語政策:『国語調査委員会』をめぐって」慶應義塾大学学術情報リポジトリ",
+   "url": "https://koara.lib.keio.ac.jp/xoonips/modules/xoonips/download.php/AN0006957X-00000033-0001.pdf"
+  },
+  {
+   "id": "F212",
+   "type": "公的機関(国立国会図書館)",
+   "title": "国立国会図書館レファレンス協同データベース「方言札について(戦前・戦後通じて)の資料があるか」",
+   "url": "https://crd.ndl.go.jp/reference/entry/index.php?page=ref_view&id=1000100989"
+  },
+  {
+   "id": "F213",
+   "type": "学術論文(抜粋のみ)",
+   "title": "梶村光郎「沖縄における方言札の出現に関する研究―1911年度以前を中心に―」『地域研究』No.23(沖縄大学地域研究所、2019)",
+   "url": "https://www.okinawa-u.ac.jp/wordpress/wp-content/uploads/2020/10/%E3%80%90%E3%83%87%E3%83%BC%E3%82%BF%E3%80%91%E5%9C%B0%E5%9F%9F%E7%A0%94%E7%A9%B6No.23.pdf"
+  },
+  {
+   "id": "F214",
+   "type": "学会発表要旨(書誌のみ)",
+   "title": "近藤健一郎「禁じられた言葉:近代沖縄における方言札の出現時期とその歴史的意義」日本教育学会大会発表要旨(2004)",
+   "url": "https://www.jstage.jst.go.jp/article/taikaip/63/0/63_KJ00004056867/_article/-char/ja/"
+  },
+  {
+   "id": "F215",
+   "type": "学術論文(抜粋のみ)",
+   "title": "井谷泰彦「言語罰札制度について―沖縄の『方言札』を中心に―」『異文化間教育』18",
+   "url": "https://www.jstage.jst.go.jp/article/jies/18/0/18_54/_pdf"
+  },
+  {
+   "id": "F216",
+   "type": "学術論文(抜粋のみ)",
+   "title": "小島千裕「教育関係者のことばの認識と教育上の矯正方針・方策:明治30年代の東北地方の教育会雑誌にもとづいて」北海道大学",
+   "url": "https://eprints.lib.hokudai.ac.jp/repo/huscap/all/80236/17-1882-1669-137.pdf"
+  },
+  {
+   "id": "F217",
+   "type": "公的機関(文化庁・冒頭の本文のみ確認)",
+   "title": "文化庁『令和5年度 生活文化調査研究事業(和装)報告書』",
+   "url": "https://www.bunka.go.jp/tokei_hakusho_shuppan/tokeichosa/seikatsubunka_chosa/pdf/94359701_03.pdf"
+  },
+  {
+   "id": "F218",
+   "type": "博物館の解説(国立民族学博物館・本文確認)",
+   "title": "国立民族学博物館「近代日本の身装文化(参考ノート)」No.437「訪問着」(大丸弘)",
+   "url": "https://htq-fs.minpaku.ac.jp/mcdrefn/RN0133"
+  },
+  {
+   "id": "F219",
+   "type": "博物館の解説(国立民族学博物館・本文確認)",
+   "title": "同 No.430「帯―お太鼓の周辺」(大丸弘)",
+   "url": "https://htq-fs.minpaku.ac.jp/mcdrefn/RN0126"
+  },
+  {
+   "id": "F220",
+   "type": "学術論文(前半を確認)",
+   "title": "劉玲芳「大正・昭和初期における黒地婚礼衣裳の流行:百貨店との関わりを中心に」『間谷論集』18(大阪大学、2024)",
+   "url": "https://ir.library.osaka-u.ac.jp/repo/ouka/all/95437/mtn18_017.pdf"
+  },
+  {
+   "id": "F221",
+   "type": "学術論文(書誌のみ)",
+   "title": "古川咲「明治時代から昭和時代初期における『訪問服』の変遷、及びその特徴」『服飾学研究』4巻1号(2022)",
+   "url": "https://www.jstage.jst.go.jp/article/fukubun/4/1/4_13/_article/-char/ja/"
+  },
+  {
+   "id": "F222",
+   "type": "学術論文(要旨のみ)",
+   "title": "田中陽子「1930年から1943年の『被服』誌上における女性服装論の歴史的意義」『日本家政学会誌』69巻4号(2018)",
+   "url": "https://www.jstage.jst.go.jp/article/jhej/69/4/69_225/_article/-char/ja/"
+  },
+  {
+   "id": "F223",
+   "type": "学術論文(抜粋のみ)",
+   "title": "青木和子「『お太鼓結び』の歴史的変容についての実践的研究」(誌名・刊行年は未確認)",
+   "url": "https://www.jstage.jst.go.jp/article/yca/28.29/0/28.29_1/_pdf"
+  },
+  {
+   "id": "F224",
+   "type": "大学研究室の解説(滋賀県立大学・抜粋のみ)",
+   "title": "「近世庶民の住まいと調度」滋賀県立大学 人間文化学部 大面屋研究室",
+   "url": "http://www.shc.usp.ac.jp/omoya/lab/activities/articles/household-edo.html"
+  },
+  {
+   "id": "F225",
+   "type": "学術論文(抜粋のみ)",
+   "title": "木村徳国「明治時代の住宅改良と中廊下形住宅様式の成立」『北海道大學工學部研究報告』21(1959)",
+   "url": "https://eprints.lib.hokudai.ac.jp/repo/huscap/all/40656/"
+  },
+  {
+   "id": "F226",
+   "type": "学術論文(抜粋のみ)",
+   "title": "木村徳国「中廊下形・居間中心形住宅様式の史的位置」北海道大学",
+   "url": "https://eprints.lib.hokudai.ac.jp/repo/huscap/all/40655/21_151-180.pdf"
+  },
+  {
+   "id": "F227",
+   "type": "学術論文(抜粋のみ)",
+   "title": "青木正夫「明治以降の住様式の変化・発展に関する一考察」住総研",
+   "url": "https://www.jstage.jst.go.jp/article/jusokenjo/12/0/12_8492/_pdf"
+  },
+  {
+   "id": "F228",
+   "type": "学術論文(書誌・キーワードのみ)",
+   "title": "「日本住宅近代化過程における洋室付加の影響に関する史的解釈の再考」『日本建築学会計画系論文集』88巻814号(2023)",
+   "url": "https://www.jstage.jst.go.jp/article/aija/88/814/88_3205/_article/-char/ja/"
+  },
+  {
+   "id": "F229",
+   "type": "学術論文(抜粋のみ)",
+   "title": "濱田耕平「和風住宅に見られる『中廊下風小部屋』の起源に関する一考察」九州大学",
+   "url": "https://www.hues.kyushu-u.ac.jp/wp-content/uploads/2022/07/2HE17410S.pdf"
+  },
+  {
+   "id": "F230",
+   "type": "公的機関(日本郵政)",
+   "title": "日本郵政「沿革」(年賀郵便の特別取扱など)",
+   "url": "https://www.japanpost.jp/group/about/milestone/"
+  },
+  {
+   "id": "F231",
+   "type": "公的機関(日本郵便)",
+   "title": "日本郵便「年賀寄付金について」(お年玉付郵便はがき)",
+   "url": "https://www.post.japanpost.jp/kifu/nenga/about.html"
+  },
+  {
+   "id": "F232",
+   "type": "公的機関(国立国会図書館)",
+   "title": "国立国会図書館レファレンス協同データベース「お年玉くじ付き年賀はがきが初めて発行されたのはいつか知りたい」",
+   "url": "https://crd.ndl.go.jp/reference/entry/index.php?id=1000343906&page=ref_view"
+  },
+  {
+   "id": "F233",
+   "type": "報道(日本経済新聞・抜粋のみ)",
+   "title": "日本経済新聞「1949年12月1日 お年玉付き年賀はがき発売」",
+   "url": "https://www.nikkei.com/article/DGKDZO19035780Y0A121C1KB2000/"
+  },
+  {
+   "id": "F234",
+   "type": "公的機関系の教材(日本郵便の学校向けサイト・抜粋のみ)",
+   "title": "郵便の豆知識「年賀状」(schoolpost.jp)",
+   "url": "https://www.schoolpost.jp/lesson/knowledge/knowledge04"
+  },
+  {
+   "id": "F235",
+   "type": "公的機関(日本郵便の報道発表資料・抜粋のみ)",
+   "title": "日本郵便 報道発表 別紙「未来に残す年賀状文化」(2023)",
+   "url": "https://www.post.japanpost.jp/notification/pressrelease/2023/00_honsha/0831_02_04.pdf"
+  },
+  {
+   "id": "F236",
+   "type": "企業のコラム(ディノス。当事者の説明)",
+   "title": "ディノス「おせちの歴史」",
+   "url": "https://www.dinos.co.jp/osechi_s/column/history/"
+  },
+  {
+   "id": "F237",
+   "type": "企業のコラム(郵便局のネットショップ。当事者の説明)",
+   "title": "郵便局のネットショップ「おせち料理の歴史」",
+   "url": "https://www.shop.post.japanpost.jp/column/osechi/osechi_history.html"
+  },
+  {
+   "id": "F238",
+   "type": "企業のコラム(阪急百貨店。当事者の説明)",
+   "title": "阪急百貨店のコラム(おせち)",
+   "url": "https://web.hh-online.jp/hankyu-food/blog/lifestyle/detail/001083.html"
+  },
+  {
+   "id": "F239",
+   "type": "公的機関(農林水産省『aff』・民間の雑煮研究者の調査に基づく)",
+   "title": "農林水産省『aff』(雑煮と餅の形の地域差)",
+   "url": "https://www.maff.go.jp/j/pr/aff/2001/spe2_02.html"
+  },
+  {
+   "id": "F240",
+   "type": "学術論文(本文の前半を確認)",
+   "title": "山田晴通「『バレンタイン・チョコレート』はどこからきたのか(1)」『東京経済大学 人文自然科学論集』124",
+   "url": "https://repository.tku.ac.jp/dspace/bitstream/11150/481/1/jinbun124-05.pdf"
+  },
+  {
+   "id": "F241",
+   "type": "公的機関(国立国会図書館)",
+   "title": "国立国会図書館レファレンス協同データベース(バレンタインデーとチョコレート)",
+   "url": "https://crd.ndl.go.jp/reference/entry/index.php?page=ref_view&id=1000090473"
+  },
+  {
+   "id": "F242",
+   "type": "企業の発表(モロゾフ。当事者の資料)",
+   "title": "モロゾフ ニュースリリース(2019年1月)",
+   "url": "https://www.morozoff.co.jp/company_ir/news_release/pdf/release_190110_02.pdf"
+  },
+  {
+   "id": "F243",
+   "type": "大学の資料室(立命館史資料センター)",
+   "title": "立命館大学 史資料センターのコラム(日本のクリスマス)",
+   "url": "https://www.ritsumei.ac.jp/archives/column/article.html/?id=325"
+  },
+  {
+   "id": "F244",
+   "type": "学術資料(神戸大学・題目と抜粋のみ)",
+   "title": "神戸大学のクリスマス消費の研究(1900年以降の朝日新聞の記事を分析)",
+   "url": "https://da.lib.kobe-u.ac.jp/da/kernel/D1002293/D1002293.pdf"
+  },
+  {
+   "id": "F245",
+   "type": "公的機関(国立国会図書館・山梨県立図書館の事例)(URL未確認)",
+   "title": "国立国会図書館レファレンス協同データベース(不二家のショートケーキの発売年。山梨県立図書館の事例)。検索用:「不二家 ショートケーキ 1922 レファレンス協同データベース」。URLは未確認",
+   "url": ""
+  },
+  {
+   "id": "F246",
+   "type": "公的機関(衆議院)(URL未確認)",
+   "title": "昭和2年勅令第25号「休日ニ関スル件」と「国民の祝日に関する法律」附則(衆議院 制定法律情報)。検索用:「国民の祝日に関する法律 昭和23年法律第178号 附則 勅令第25号」。URLは未確認",
+   "url": ""
+  },
+  {
+   "id": "F247",
+   "type": "企業の公式ブログ(東京ディズニーリゾート)(URL未確認)",
+   "title": "東京ディズニーリゾート公式ブログ(2017年7月25日、1997年の初のハロウィーンイベント)。検索用:「東京ディズニーリゾート ブログ 1997年 ハロウィーン 初めて」。URLは未確認",
+   "url": ""
+  },
+  {
+   "id": "F248",
+   "type": "企業の発表(キデイランド)(URL未確認)",
+   "title": "キデイランドのPR TIMES発表(1983年のハロウィーンのパレード)。検索用:「キデイランド PR TIMES ハロウィン パレード 1983」。URLは未確認",
+   "url": ""
+  },
+  {
+   "id": "F249",
+   "type": "報道(J-CASTニュース)",
+   "title": "J-CASTニュース(2015年。セブン-イレブンの恵方巻の説明)",
+   "url": "https://www.j-cast.com/2015/02/04227080.html?p=all"
+  },
+  {
+   "id": "F250",
+   "type": "学術論文(書誌のみ)(URL未確認)",
+   "title": "岩崎竹彦「フォークロリズムからみた節分の巻ずし」『日本民俗学』236(2003)pp.72-81。検索用:「岩崎竹彦 フォークロリズム 節分の巻ずし」。URLは未確認",
+   "url": ""
+  },
+  {
+   "id": "F251",
+   "type": "報道(BuzzFeedの転載。二次報道)",
+   "title": "BuzzFeed記事の転載(岩崎竹彦氏の取材コメント、昭和7年のビラ)",
+   "url": "http://news.line.me/issue/oa-buzzfeed/1k1wpmzyffvj7"
+  },
+  {
+   "id": "F252",
+   "type": "学術誌(國學院雑誌。検索結果の抜粋のみ)",
+   "title": "「節分の巻寿司(恵方巻)行事」から見る年中行事の現在(『國學院雑誌』116巻5号。岩崎竹彦の整理を紹介)",
+   "url": "https://k-rain.repo.nii.ac.jp/record/80/files/kokugakuinzasshi_116_05_003.pdf"
   }
  ]
 }
