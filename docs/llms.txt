@@ -101,3 +101,103 @@
 - L09 骨上げ(全収骨と部分収骨) [年代不明・要確認] 最終確認日 2026-10-24
 - L12 屋敷神としての稲荷(家の敷地に祀る神) [年代不明・要確認] 最終確認日 2026-11-20
 - L13 恵比寿(えびす)信仰とえびす講の地域差 [年代不明・要確認] 最終確認日 2026-11-20
+
+## English
+
+Traditions and History of Japan That Even Adults Get Wrong: a reference database of 95 items about common misconceptions on Japanese tradition and history, each with sources, a confidence mark (Confirmed / Needs checking / Not confirmable), caveats and a last-checked date. English text is a machine translation (by Claude) of the Japanese original and is in the en object of each item in data.json. Add ?lang=en to the page URL for the English view.
+
+- G01 Toraijin and ancient immigrants [Ancient, Needs checking] last checked 2026-11-20
+- G02 The making of the Japanese people (genome research) [Ancient, Needs checking] last checked 2026-10-24
+- R01 Shinbutsu shūgō was the “normal” for about a thousand years [Ancient, Confirmed] last checked 2026-10-24
+- R02 The honji suijaku theory [Ancient, Needs checking] last checked 2026-11-20
+- R13 The Emperor and Ise Jingū (an Emperor’s personal visit first occurred in Meiji 2) [Ancient, Needs checking] last checked 2026-11-21
+- R03 Enryaku-ji’s power and the burning of 1571 [Medieval, Needs checking] last checked 2026-11-20
+- L11 Ujigami, ubusunagami and chinju (how their meanings mixed, and modern institutionalization) [Medieval, Needs checking] last checked 2026-11-20
+- R08 Interruptions of the shikinen sengū (Ise Jingū) [Medieval, Needs checking] last checked 2026-11-20
+- G05 “Sakoku” (national seclusion) [Early modern, Needs checking] last checked 2026-10-24
+- L05 Matsu no uchi (the day the kadomatsu is taken down) [Early modern, Needs checking] last checked 2026-10-24
+- L06 The day of kagami-biraki [Early modern, Needs checking] last checked 2026-10-24
+- L08 The shape of mochi (square and round) [Early modern, Needs checking] last checked 2026-10-24
+- R04 The terauke and danka systems [Early modern, Needs checking] last checked 2026-11-21
+- M01 Kigensetsu (Jimmu’s accession day, 11 February) → National Foundation Day [Meiji, Confirmed] last checked 2026-10-24
+- M02 The national status of the Hinomaru and Kimigayo [Meiji, Needs checking] last checked 2026-10-24
+- M03 Separation of Shinto and Buddhism and state management of shrines (“shrines are not religion”) [Meiji, Confirmed] last checked 2026-10-24
+- M04 Unification of shrine rites and “two bows, two claps, one bow” (generalization of worshippers’ etiquette: postwar to Heisei) [Meiji, Needs checking] last checked 2026-10-24
+- M05 Shinto weddings (shinzen kekkonshiki) [Meiji, Confirmed] last checked 2026-10-24
+- M06 Hatsumōde (visiting shrines and temples on New Year’s Day) [Meiji, Needs checking] last checked 2026-11-20
+- M07 Bushidō [Meiji, Confirmed] last checked 2026-10-24
+- M08 The term “national sport” (kokugi) for sumo, the Kokugikan, and “dignity and courtesy” [Meiji, Confirmed] last checked 2026-10-24
+- M09 The same-surname system for married couples [Meiji, Needs checking] last checked 2026-10-24
+- M10 The Imperial Rescript on Education and school ceremonies [Meiji, Needs checking] last checked 2026-10-24
+- M11 Modern institutionalization of the daijōsai and the sokui-rei [Meiji, Needs checking] last checked 2026-10-24
+- M12 Identification and development of imperial mausoleums [Meiji, Needs checking] last checked 2026-10-24
+- M13 The spring and autumn Kōrei-sai (→ Vernal Equinox Day and Autumnal Equinox Day) [Meiji, Confirmed] last checked 2026-11-20
+- M14 The ban on women on the dohyō (the logic of exclusion based on Shinto) [Meiji, Needs checking] last checked 2026-10-24
+- M15 Shichi-go-san [Meiji, Needs checking] last checked 2026-11-20
+- M16 Seiza as formal etiquette [Meiji, Needs checking] last checked 2026-11-20
+- M17 Rice-centered diet and the “Japanese-style diet” [Meiji, Needs checking] last checked 2026-10-24
+- Z01 History of temple and shrine lands and the tax exemption of religious corporations [Meiji, Needs checking] last checked 2026-11-20
+- Z02 Female emperors and the “male-line male” provision [Meiji, Needs checking] last checked 2026-10-24
+- L07 The timing of Obon (July Obon and August Obon) [Meiji, Needs checking] last checked 2026-10-24
+- M18 The ie system (the Meiji Civil Code of 1898) [Meiji, Needs checking] last checked 2026-11-20
+- M19 The one-reign-one-era system and the Era Name Law [Meiji, Needs checking] last checked 2026-11-20
+- M20 Yasukuni Shrine (the founding of Shōkonsha) [Meiji, Needs checking] last checked 2026-11-20
+- R05 The Shugen-shū abolition order (1872) [Meiji, Needs checking] last checked 2026-11-20
+- R06 Shrine mergers (from 1906) [Meiji, Needs checking] last checked 2026-11-20
+- R07 Removal of the anti-Christian edict boards (1873) [Meiji, Needs checking] last checked 2026-11-20
+- M21 “Bansei ikkei” (an unbroken single line) [Meiji, Needs checking] last checked 2026-11-21
+- R09 Haibutsu kishaku (the scale of temple abolition, and who drove it) [Meiji, Needs checking] last checked 2026-11-21
+- R10 Kyōha Shintō (the “Thirteen Sects of Shinto”) [Meiji, Needs checking] last checked 2026-11-21
+- R11 Shinsōsai (Shinto-style funerals) [Meiji, Needs checking] last checked 2026-11-21
+- R12 Buddhist-style weddings (butsuzen kekkonshiki) [Meiji, Needs checking] last checked 2026-11-21
+- M22 Standard Japanese and the “dialect tag” (hōgen-fuda) [Meiji, Needs checking] last checked 2026-11-21
+- M23 Kimono (wasō) and the “ancient national costume” [Meiji, Needs checking] last checked 2026-11-21
+- M24 The washitsu (tatami-floored room) and the tatami-floored dwelling [Meiji, Needs checking] last checked 2026-11-21
+- M25 New Year’s cards (nengajō) [Meiji, Needs checking] last checked 2026-11-21
+- M26 Christmas [Meiji, Needs checking] last checked 2026-11-21
+- T01 Meiji Jingū and its sacred forest [Taishō, Confirmed] last checked 2026-10-24
+- T02 Hakkō ichiu [Taishō, Needs checking] last checked 2026-11-20
+- T03 Joya no kane (New Year’s Eve bell-ringing), its establishment as a nationwide custom [Taishō, Needs checking] last checked 2026-11-20
+- T04 School martial arts (gekken and jūjutsu → kendō and jūdō) [Taishō, Needs checking] last checked 2026-10-24
+- K06 Killing and wounding of Koreans and others at the time of the Great Kantō Earthquake (1923) [Taishō, Needs checking] last checked 2026-11-20
+- S01 The positioning of “Japan’s own martial arts” [Early Shōwa, Needs checking] last checked 2026-10-24
+- G03 Prewar Muslims, mosques and the “Islam policy” (kaikyō seisaku) [Early Shōwa, Needs checking] last checked 2026-10-24
+- L02 Left and right placement of the male and female hina dolls [Early Shōwa, Needs checking] last checked 2026-11-20
+- W01 “Kokutai no Hongi” (1937) [Wartime Shōwa, Needs checking] last checked 2026-11-20
+- W02 The 2600th anniversary celebrations of 1940 (Kigen 2600) [Wartime Shōwa, Confirmed] last checked 2026-11-20
+- W03 Household rites and the distribution of Jingū taima (kamidana) [Wartime Shōwa, Needs checking] last checked 2026-10-24
+- W04 Wartime martial arts, postwar revival and compulsory status [Wartime Shōwa, Needs checking] last checked 2026-10-24
+- W05 The myth of the single ethnic nation [Wartime Shōwa, Needs checking] last checked 2026-10-24
+- K01 The Nanjing Incident [Wartime Shōwa, Confirmed] last checked 2026-10-24
+- K02 Unit 731 [Wartime Shōwa, Needs checking] last checked 2026-10-24
+- K03 The Kyushu University vivisection incident [Wartime Shōwa, Confirmed] last checked 2026-10-24
+- K04 The Senjinkun and “capture is shame” [Wartime Shōwa, Confirmed] last checked 2026-11-20
+- K05 Treatment of Allied prisoners of war [Wartime Shōwa, Confirmed] last checked 2026-11-20
+- K08 Death tolls of the atomic bombings of Hiroshima and Nagasaki [Wartime Shōwa, Needs checking] last checked 2026-11-20
+- K09 Death toll of the Tokyo air raid (10 March 1945) [Wartime Shōwa, Needs checking] last checked 2026-11-20
+- K10 The Okinawa “mass suicide” (shūdan jiketsu), trials and textbook screening [Wartime Shōwa, Needs checking] last checked 2026-11-20
+- K11 The position of 15 August (the day of the war’s end) [Wartime Shōwa, Needs checking] last checked 2026-11-20
+- K13 The Tongzhou Incident (July 1937) [Wartime Shōwa, Needs checking] last checked 2026-11-21
+- K14 The bombing of Chongqing (1938–1943) [Wartime Shōwa, Needs checking] last checked 2026-11-21
+- K15 Tokkō (special attacks) and “volunteering” [Wartime Shōwa, Needs checking] last checked 2026-11-21
+- K16 Use of poison gas (chemical weapons) by the Japanese military (Sino-Japanese War) [Wartime Shōwa, Needs checking] last checked 2026-11-21
+- P01 Coming-of-age ceremony (seijin-shiki) [Postwar Shōwa, Needs checking] last checked 2026-11-20
+- P02 The “traditional family” image and the Japanese-style welfare society [Postwar Shōwa, Needs checking] last checked 2026-10-24
+- P03 Edo-shigusa [Postwar Shōwa, Needs checking] last checked 2026-10-24
+- P04 Ehōmaki [Postwar Shōwa, Needs checking] last checked 2026-11-21
+- G04 The increase of Muslims in Japan since the 1980s [Postwar Shōwa, Needs checking] last checked 2026-10-24
+- L10 Leaving one side of the escalator open [Postwar Shōwa, Needs checking] last checked 2026-11-20
+- K07 The number of internees in Siberia [Postwar Shōwa, Needs checking] last checked 2026-11-20
+- P05 Osechi cuisine and zōni [Postwar Shōwa, Needs checking] last checked 2026-11-21
+- P06 Valentine’s Day (the custom of women giving chocolate to men) [Postwar Shōwa, Needs checking] last checked 2026-11-21
+- H01 Oyagaku and “traditional child-rearing” [Heisei and after, Needs checking] last checked 2026-10-24
+- H02 Goshuin (temple and shrine seals) [Heisei and after, Needs checking] last checked 2026-11-20
+- H03 Temizu etiquette, and the center of the approach (seichū) as the path of the gods [Heisei and after, Needs checking] last checked 2026-11-20
+- K12 Disposal of abandoned chemical weapons (China) [Heisei and after, Needs checking] last checked 2026-11-20
+- H04 Halloween [Heisei and after, Needs checking] last checked 2026-11-21
+- L01 Table setting (position of rice and soup) [Date unknown, Needs checking] last checked 2026-11-20
+- L03 Number of claps (Izumo Taisha, Usa Jingū, Ise Jingū) [Date unknown, Needs checking] last checked 2026-11-20
+- L04 Kamiarizuki and Kannazuki [Date unknown, Needs checking] last checked 2026-10-24
+- L09 Kotsuage (collecting bones; full and partial collection) [Date unknown, Needs checking] last checked 2026-10-24
+- L12 Inari as a household shrine (yashikigami, a god enshrined on a house’s grounds) [Date unknown, Needs checking] last checked 2026-11-20
+- L13 Ebisu belief and regional differences in Ebisu-kō [Date unknown, Needs checking] last checked 2026-11-20
