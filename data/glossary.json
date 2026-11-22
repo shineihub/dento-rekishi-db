@@ -4,942 +4,1318 @@
   {
    "term": "上知令",
    "reading": "あげちれい",
-   "meaning": "社寺などの土地を、政府が取り上げて国のものにした命令。"
+   "meaning": "社寺などの土地を、政府が取り上げて国のものにした命令。",
+   "romaji": "Agechirei",
+   "meaning_en": "An order by which the government took land held by shrines, temples and others and made it state property."
   },
   {
    "term": "天の逆手",
    "reading": "あめのさかて",
-   "meaning": "『古事記』に出てくる、手を打つ動作。意味には諸説ある。"
+   "meaning": "『古事記』に出てくる、手を打つ動作。意味には諸説ある。",
+   "romaji": "Ame no sakate",
+   "meaning_en": "A hand-clapping gesture that appears in the Kojiki. There are various theories about its meaning."
   },
   {
    "term": "荒野泰典",
    "reading": "あらのやすのり",
-   "meaning": "日本の対外関係史を研究した歴史学者。"
+   "meaning": "日本の対外関係史を研究した歴史学者。",
+   "romaji": "Arano Yasunori",
+   "meaning_en": "A historian who studied the history of Japan’s foreign relations."
   },
   {
    "term": "遺棄化学兵器",
    "reading": "いきかがくへいき",
-   "meaning": "戦争中に捨てられたまま残っている、毒ガスなどの兵器。"
+   "meaning": "戦争中に捨てられたまま残っている、毒ガスなどの兵器。",
+   "romaji": "Iki kagaku heiki",
+   "meaning_en": "Chemical weapons such as poison gas that were left behind and remain since the war."
   },
   {
    "term": "一次資料",
    "reading": "いちじしりょう",
-   "meaning": "当時の人が書き残した記録など、元になる資料。"
+   "meaning": "当時の人が書き残した記録など、元になる資料。",
+   "romaji": "Ichiji shiryō",
+   "meaning_en": "Original material, such as records left by people of the time."
   },
   {
    "term": "一門",
    "reading": "いちもん",
-   "meaning": "同じ一族。"
+   "meaning": "同じ一族。",
+   "romaji": "Ichimon",
+   "meaning_en": "The same family line or kin group."
   },
   {
    "term": "一世一元",
    "reading": "いっせいいちげん",
-   "meaning": "天皇一代のあいだ、元号を一つだけ使うきまり。"
+   "meaning": "天皇一代のあいだ、元号を一つだけ使うきまり。",
+   "romaji": "Issei ichigen",
+   "meaning_en": "The rule of using only one era name during the reign of one emperor."
   },
   {
    "term": "稲佐",
    "reading": "いなさ",
-   "meaning": "島根県出雲市の海岸「稲佐の浜」。神々が出雲に来る場所とされる。"
+   "meaning": "島根県出雲市の海岸「稲佐の浜」。神々が出雲に来る場所とされる。",
+   "romaji": "Inasa",
+   "meaning_en": "Inasa no Hama, a shore in Izumo, Shimane Prefecture. It is said to be where the gods arrive in Izumo."
   },
   {
    "term": "稲荷",
    "reading": "いなり",
-   "meaning": "農業や商売の神として全国で祀られる神。キツネと結びつけられる。"
+   "meaning": "農業や商売の神として全国で祀られる神。キツネと結びつけられる。",
+   "romaji": "Inari",
+   "meaning_en": "A deity worshipped nationwide as a god of farming and commerce. Associated with the fox."
   },
   {
    "term": "動く歩道",
    "reading": "うごくほどう",
-   "meaning": "空港や駅にある、乗ると進む平らな通路。"
+   "meaning": "空港や駅にある、乗ると進む平らな通路。",
+   "romaji": "Ugoku hodō",
+   "meaning_en": "A flat passage found at airports and stations that carries you forward when you stand on it (moving walkway)."
   },
   {
    "term": "氏神",
    "reading": "うじがみ",
-   "meaning": "もとは同じ一族(氏族)の守り神。のちに、住んでいる地域の守り神の意味でも使われるようになった。"
+   "meaning": "もとは同じ一族(氏族)の守り神。のちに、住んでいる地域の守り神の意味でも使われるようになった。",
+   "romaji": "Ujigami",
+   "meaning_en": "Originally the guardian deity of one clan (uji). Later also used to mean the guardian deity of the area where one lives."
   },
   {
    "term": "氏子",
    "reading": "うじこ",
-   "meaning": "地域の神社を支え、祭りに関わる住民。"
+   "meaning": "地域の神社を支え、祭りに関わる住民。",
+   "romaji": "Ujiko",
+   "meaning_en": "Residents who support a local shrine and take part in its festivals."
   },
   {
    "term": "氏子調",
    "reading": "うじこしらべ",
-   "meaning": "氏子を調べて登録した制度。本サイトの項目で扱っている。"
+   "meaning": "氏子を調べて登録した制度。本サイトの項目で扱っている。",
+   "romaji": "Ujiko-shirabe",
+   "meaning_en": "A system in which parishioners of a shrine were surveyed and registered. It is dealt with in an item of this site."
   },
   {
    "term": "氏上",
    "reading": "うじのかみ",
-   "meaning": "古代の氏族の長。氏神の祭りを受け持った。"
+   "meaning": "古代の氏族の長。氏神の祭りを受け持った。",
+   "romaji": "Uji no kami",
+   "meaning_en": "The head of a clan in ancient times. He was in charge of the festival of the clan deity."
   },
   {
    "term": "右上位",
    "reading": "うじょうい",
-   "meaning": "右側を上位とする考え方。"
+   "meaning": "右側を上位とする考え方。",
+   "romaji": "Ujōi",
+   "meaning_en": "The idea of regarding the right side as superior."
   },
   {
    "term": "産土神",
    "reading": "うぶすながみ",
-   "meaning": "生まれた土地を守る神。"
+   "meaning": "生まれた土地を守る神。",
+   "romaji": "Ubusunagami",
+   "meaning_en": "A deity that protects the land where one was born."
   },
   {
    "term": "江戸しぐさ",
    "reading": "えどしぐさ",
-   "meaning": "江戸時代の商人の作法として紹介されて広まった「しぐさ」。本サイトの項目で確認結果を扱う。"
+   "meaning": "江戸時代の商人の作法として紹介されて広まった「しぐさ」。本サイトの項目で確認結果を扱う。",
+   "romaji": "Edo-shigusa",
+   "meaning_en": "“Gestures” introduced and spread as the manners of Edo-period merchants. The result of checking it is dealt with in an item of this site."
   },
   {
    "term": "恵比寿",
    "reading": "えびす",
-   "meaning": "商売や漁の神として祀られる神。"
+   "meaning": "商売や漁の神として祀られる神。",
+   "romaji": "Ebisu",
+   "meaning_en": "A deity worshipped as a god of commerce and fishing."
   },
   {
    "term": "えびす講",
    "reading": "えびすこう",
-   "meaning": "えびす神をまつって商売の繁盛などを願う行事。「講」は同じ信仰で集まる会のこと。"
+   "meaning": "えびす神をまつって商売の繁盛などを願う行事。「講」は同じ信仰で集まる会のこと。",
+   "romaji": "Ebisu-kō",
+   "meaning_en": "An event worshipping the god Ebisu and praying for prosperity in business and so on. A “kō” is a society that gathers around the same belief."
   },
   {
    "term": "恵方",
    "reading": "えほう",
-   "meaning": "その年に縁起がよいとされる方角。"
+   "meaning": "その年に縁起がよいとされる方角。",
+   "romaji": "Ehō",
+   "meaning_en": "The direction regarded as auspicious in a given year."
   },
   {
    "term": "延暦寺",
    "reading": "えんりゃくじ",
-   "meaning": "滋賀県と京都府の境の比叡山にある、天台宗の大きな寺。"
+   "meaning": "滋賀県と京都府の境の比叡山にある、天台宗の大きな寺。",
+   "romaji": "Enryakuji",
+   "meaning_en": "A large Tendai-sect temple on Mount Hiei on the border of Shiga and Kyoto Prefectures."
   },
   {
    "term": "王化思想",
    "reading": "おうかしそう",
-   "meaning": "君主の徳によって、人々が教え導かれるという考え方。"
+   "meaning": "君主の徳によって、人々が教え導かれるという考え方。",
+   "romaji": "Ōka shisō",
+   "meaning_en": "The idea that people are taught and guided by the virtue of the sovereign."
   },
   {
    "term": "大国主",
    "reading": "おおくにぬし",
-   "meaning": "神話に出てくる、出雲の国づくりの神。"
+   "meaning": "神話に出てくる、出雲の国づくりの神。",
+   "romaji": "Ōkuninushi",
+   "meaning_en": "The god in myth who built the land of Izumo."
   },
   {
    "term": "帯解",
    "reading": "おびとき",
-   "meaning": "子どもが付け紐をやめて、帯を締めるようになる儀式。"
+   "meaning": "子どもが付け紐をやめて、帯を締めるようになる儀式。",
+   "romaji": "Obitoki",
+   "meaning_en": "A ceremony in which a child stops using tying cords and begins to wear an obi."
   },
   {
    "term": "親学",
    "reading": "おやがく",
-   "meaning": "親のあり方を教えるとして広められた考え方。本サイトの項目で扱っている。"
+   "meaning": "親のあり方を教えるとして広められた考え方。本サイトの項目で扱っている。",
+   "romaji": "Oyagaku",
+   "meaning_en": "An idea spread as teaching how parents should be. It is dealt with in an item of this site."
   },
   {
    "term": "回教",
    "reading": "かいきょう",
-   "meaning": "戦前・戦中の日本での、イスラム教の呼び名。"
+   "meaning": "戦前・戦中の日本での、イスラム教の呼び名。",
+   "romaji": "Kaikyō",
+   "meaning_en": "The name for Islam in prewar and wartime Japan."
   },
   {
    "term": "回教政策",
    "reading": "かいきょうせいさく",
-   "meaning": "戦前・戦中の日本政府が、イスラム教徒との関係づくりのために行った政策。"
+   "meaning": "戦前・戦中の日本政府が、イスラム教徒との関係づくりのために行った政策。",
+   "romaji": "Kaikyō seisaku",
+   "meaning_en": "The policy by which the prewar and wartime Japanese government sought to build relations with Muslims."
   },
   {
    "term": "改暦",
    "reading": "かいれき",
-   "meaning": "こよみ(暦)の方式を変えること。日本では明治に旧暦から新暦に変わった。"
+   "meaning": "こよみ(暦)の方式を変えること。日本では明治に旧暦から新暦に変わった。",
+   "romaji": "Kaireki",
+   "meaning_en": "Changing the system of the calendar. In Japan it changed from the old calendar to the new one in Meiji."
   },
   {
    "term": "鏡開き",
    "reading": "かがみびらき",
-   "meaning": "正月に供えた鏡餅を下げて、割って食べる行事。"
+   "meaning": "正月に供えた鏡餅を下げて、割って食べる行事。",
+   "romaji": "Kagami-biraki",
+   "meaning_en": "An event in which the kagami mochi offered at New Year is taken down, broken and eaten."
   },
   {
    "term": "閣議決定",
    "reading": "かくぎけってい",
-   "meaning": "内閣が、大臣たちの合意で決めること。"
+   "meaning": "内閣が、大臣たちの合意で決めること。",
+   "romaji": "Kakugi kettei",
+   "meaning_en": "A decision made by the Cabinet by agreement of the ministers."
   },
   {
    "term": "角餅",
    "reading": "かくもち",
-   "meaning": "四角い形の餅。"
+   "meaning": "四角い形の餅。",
+   "romaji": "Kaku-mochi",
+   "meaning_en": "Mochi in a square shape."
   },
   {
    "term": "柏手",
    "reading": "かしわで",
-   "meaning": "神社で手を打ち鳴らすこと。拍手。"
+   "meaning": "神社で手を打ち鳴らすこと。拍手。",
+   "romaji": "Kashiwade",
+   "meaning_en": "Clapping the hands at a shrine."
   },
   {
    "term": "火葬",
    "reading": "かそう",
-   "meaning": "遺体を焼いて葬ること。"
+   "meaning": "遺体を焼いて葬ること。",
+   "romaji": "Kasō",
+   "meaning_en": "Cremation: burning the body to bury it."
   },
   {
    "term": "形代",
    "reading": "かたしろ",
-   "meaning": "神道で、神の霊を移して宿らせたもの。"
+   "meaning": "神道で、神の霊を移して宿らせたもの。",
+   "romaji": "Katashiro",
+   "meaning_en": "In Shinto, an object to which a deity’s spirit is transferred to dwell."
   },
   {
    "term": "桂離宮",
    "reading": "かつらりきゅう",
-   "meaning": "京都にある、江戸時代前半に造られた皇族の別荘。"
+   "meaning": "京都にある、江戸時代前半に造られた皇族の別荘。",
+   "romaji": "Katsura Rikyū",
+   "meaning_en": "An imperial family villa in Kyoto, built in the first half of the Edo period."
   },
   {
    "term": "門松",
    "reading": "かどまつ",
-   "meaning": "正月に家の門に立てる松の飾り。"
+   "meaning": "正月に家の門に立てる松の飾り。",
+   "romaji": "Kadomatsu",
+   "meaning_en": "A pine decoration set up at the gate of a house at New Year."
   },
   {
    "term": "神在月",
    "reading": "かみありづき",
-   "meaning": "旧暦の10月の、出雲での呼び名。全国の神が集まるとされる。"
+   "meaning": "旧暦の10月の、出雲での呼び名。全国の神が集まるとされる。",
+   "romaji": "Kamiarizuki",
+   "meaning_en": "The name in Izumo for the tenth lunar month, when the gods of the whole country are said to gather."
   },
   {
    "term": "髪置",
    "reading": "かみおき",
-   "meaning": "子どもが髪をのばしはじめるときの儀式。"
+   "meaning": "子どもが髪をのばしはじめるときの儀式。",
+   "romaji": "Kamioki",
+   "meaning_en": "A ceremony when a child begins to let the hair grow."
   },
   {
    "term": "神棚",
    "reading": "かみだな",
-   "meaning": "家の中で神を祀る棚。"
+   "meaning": "家の中で神を祀る棚。",
+   "romaji": "Kamidana",
+   "meaning_en": "A shelf inside a house on which a deity is enshrined."
   },
   {
    "term": "神無月",
    "reading": "かんなづき",
-   "meaning": "旧暦の10月。神が出雲に行き、よそにはいないとされる月。"
+   "meaning": "旧暦の10月。神が出雲に行き、よそにはいないとされる月。",
+   "romaji": "Kannazuki",
+   "meaning_en": "The tenth lunar month. The month in which the gods go to Izumo and are said to be absent elsewhere."
   },
   {
    "term": "きい剤",
    "reading": "きいざい",
-   "meaning": "旧日本軍の呼び方で、マスタードなどの致死性のびらん剤。"
+   "meaning": "旧日本軍の呼び方で、マスタードなどの致死性のびらん剤。",
+   "romaji": "Kii-zai",
+   "meaning_en": "The former Japanese military’s name for lethal blister agents such as mustard gas."
   },
   {
    "term": "紀元節",
    "reading": "きげんせつ",
-   "meaning": "神武天皇が即位した日とされた日を祝う、戦前の祝日。"
+   "meaning": "神武天皇が即位した日とされた日を祝う、戦前の祝日。",
+   "romaji": "Kigensetsu",
+   "meaning_en": "A prewar national holiday celebrating the day regarded as that of Emperor Jimmu’s accession."
   },
   {
    "term": "紀元二千六百年",
    "reading": "きげんにせんろっぴゃくねん",
-   "meaning": "神武天皇の即位から数えて二千六百年にあたるとされた年。昭和の戦時中に大きな行事が行われた。"
+   "meaning": "神武天皇の即位から数えて二千六百年にあたるとされた年。昭和の戦時中に大きな行事が行われた。",
+   "romaji": "Kigen nisen roppyakunen",
+   "meaning_en": "The year regarded as the 2,600th since Emperor Jimmu’s accession. Large events were held in it during Shōwa wartime."
   },
   {
    "term": "鬼宿日",
    "reading": "きしゅくにち",
-   "meaning": "暦で、何をするにも吉とされる日。"
+   "meaning": "暦で、何をするにも吉とされる日。",
+   "romaji": "Kishuku-nichi",
+   "meaning_en": "A day in the calendar regarded as auspicious for anything."
   },
   {
    "term": "冀東防共自治政府",
    "reading": "きとうぼうきょうじちせいふ",
-   "meaning": "1935年に日本の影響下で、北京の東側の地域につくられた政権。"
+   "meaning": "1935年に日本の影響下で、北京の東側の地域につくられた政権。",
+   "romaji": "Kitō Bōkyō Jichi Seifu",
+   "meaning_en": "The East Hebei Anti-Communist Autonomous Government: a regime set up in 1935 under Japanese influence in the area east of Beijing."
   },
   {
    "term": "基本国策要綱",
    "reading": "きほんこくさくようこう",
-   "meaning": "1940年に政府が閣議で決めた、国の基本方針。"
+   "meaning": "1940年に政府が閣議で決めた、国の基本方針。",
+   "romaji": "Kihon Kokusaku Yōkō",
+   "meaning_en": "Outline of Basic National Policy: the basic policy of the state decided by the Cabinet in 1940."
   },
   {
    "term": "九州帝国大学",
    "reading": "きゅうしゅうていこくだいがく",
-   "meaning": "いまの九州大学の、戦前の名前。"
+   "meaning": "いまの九州大学の、戦前の名前。",
+   "romaji": "Kyūshū Teikoku Daigaku",
+   "meaning_en": "The prewar name of today’s Kyushu University."
   },
   {
    "term": "教育勅語",
    "reading": "きょういくちょくご",
-   "meaning": "明治に出された、教育の基本とされた天皇の言葉。"
+   "meaning": "明治に出された、教育の基本とされた天皇の言葉。",
+   "romaji": "Kyōiku Chokugo",
+   "meaning_en": "Imperial Rescript on Education: words of the emperor issued in Meiji and regarded as the basis of education."
   },
   {
    "term": "極東国際軍事裁判",
    "reading": "きょくとうこくさいぐんじさいばん",
-   "meaning": "戦後、連合国が日本の戦争指導者などを裁いた裁判。東京裁判ともいう。"
+   "meaning": "戦後、連合国が日本の戦争指導者などを裁いた裁判。東京裁判ともいう。",
+   "romaji": "Kyokutō Kokusai Gunji Saiban",
+   "meaning_en": "The postwar trial in which the Allied Powers tried Japan’s war leaders and others. Also called the Tokyo Trial."
   },
   {
    "term": "魏志倭人伝",
    "reading": "ぎしわじんでん",
-   "meaning": "中国の歴史書『三国志』の中にある、古代の日本(倭)についての記述。"
+   "meaning": "中国の歴史書『三国志』の中にある、古代の日本(倭)についての記述。",
+   "romaji": "Gishi Wajinden",
+   "meaning_en": "The description of ancient Japan (Wa) in the Chinese history “Sanguozhi”."
   },
   {
    "term": "国譲り",
    "reading": "くにゆずり",
-   "meaning": "神話で、大国主が国を天の神の子孫にゆずったという話。"
+   "meaning": "神話で、大国主が国を天の神の子孫にゆずったという話。",
+   "romaji": "Kuniyuzuri",
+   "meaning_en": "The story in myth that Ōkuninushi yielded the land to the descendants of the heavenly gods."
   },
   {
    "term": "境内地",
    "reading": "けいだいち",
-   "meaning": "神社や寺の敷地。"
+   "meaning": "神社や寺の敷地。",
+   "romaji": "Keidaichi",
+   "meaning_en": "The grounds of a shrine or temple."
   },
   {
    "term": "血縁",
    "reading": "けつえん",
-   "meaning": "血のつながり。"
+   "meaning": "血のつながり。",
+   "romaji": "Ketsuen",
+   "meaning_en": "Ties of blood."
   },
   {
    "term": "ゲノム",
    "reading": "げのむ",
-   "meaning": "生き物がもつ遺伝情報の全体。"
+   "meaning": "生き物がもつ遺伝情報の全体。",
+   "romaji": "Genomu",
+   "meaning_en": "The whole of the genetic information that a living thing has (genome)."
   },
   {
    "term": "元号",
    "reading": "げんごう",
-   "meaning": "「明治」「令和」のような、年につける呼び名。"
+   "meaning": "「明治」「令和」のような、年につける呼び名。",
+   "romaji": "Gengō",
+   "meaning_en": "A name attached to years, such as “Meiji” or “Reiwa” (era name)."
   },
   {
    "term": "高札",
    "reading": "こうさつ",
-   "meaning": "江戸時代から明治のはじめまで、法令などを板に書いて人々に知らせた立て札。"
+   "meaning": "江戸時代から明治のはじめまで、法令などを板に書いて人々に知らせた立て札。",
+   "romaji": "Kōsatsu",
+   "meaning_en": "A signboard from the Edo period to the early Meiji period on which laws and the like were written to notify the people."
   },
   {
    "term": "皇室祭祀令",
    "reading": "こうしつさいしれい",
-   "meaning": "1908年に定められた、皇室の祭祀(祭り)のきまり。"
+   "meaning": "1908年に定められた、皇室の祭祀(祭り)のきまり。",
+   "romaji": "Kōshitsu Saishirei",
+   "meaning_en": "The rules on the imperial house’s rituals, set in 1908."
   },
   {
    "term": "皇室典範",
    "reading": "こうしつてんぱん",
-   "meaning": "皇位の継ぎ方など、皇室に関するきまりを定めた法。"
+   "meaning": "皇位の継ぎ方など、皇室に関するきまりを定めた法。",
+   "romaji": "Kōshitsu Tenpan",
+   "meaning_en": "The Imperial House Law: the law that sets rules concerning the imperial house, such as how the throne is succeeded."
   },
   {
    "term": "荒神",
    "reading": "こうじん",
-   "meaning": "かまどや家を守るとされる神。地方によって屋敷神の呼び名にもなる。"
+   "meaning": "かまどや家を守るとされる神。地方によって屋敷神の呼び名にもなる。",
+   "romaji": "Kōjin",
+   "meaning_en": "A deity said to protect the hearth and the house. In some regions also a name for a yashikigami."
   },
   {
    "term": "皇統譜",
    "reading": "こうとうふ",
-   "meaning": "天皇や皇族の系統・身分を登録する帳簿。"
+   "meaning": "天皇や皇族の系統・身分を登録する帳簿。",
+   "romaji": "Kōtōfu",
+   "meaning_en": "The register in which the lineage and status of the emperor and imperial family members are recorded."
   },
   {
    "term": "降伏文書",
    "reading": "こうふくぶんしょ",
-   "meaning": "降伏を正式に認める文書。"
+   "meaning": "降伏を正式に認める文書。",
+   "romaji": "Kōfuku bunsho",
+   "meaning_en": "The document that formally acknowledges surrender (instrument of surrender)."
   },
   {
    "term": "国体",
    "reading": "こくたい",
-   "meaning": "「国のあり方」を表す言葉。戦前は天皇を中心とする国のかたちを指して使われた。"
+   "meaning": "「国のあり方」を表す言葉。戦前は天皇を中心とする国のかたちを指して使われた。",
+   "romaji": "Kokutai",
+   "meaning_en": "A word expressing “the form of the nation”. Before the war it was used to mean a national form centered on the emperor."
   },
   {
    "term": "国有財産",
    "reading": "こくゆうざいさん",
-   "meaning": "国が持つ土地や建物などの財産。"
+   "meaning": "国が持つ土地や建物などの財産。",
+   "romaji": "Kokuyū zaisan",
+   "meaning_en": "Property such as land and buildings held by the state."
   },
   {
    "term": "戸主",
    "reading": "こしゅ",
-   "meaning": "明治民法で、家を代表して家族を統率する人。"
+   "meaning": "明治民法で、家を代表して家族を統率する人。",
+   "romaji": "Koshu",
+   "meaning_en": "Under the Meiji Civil Code, the person who represented a household and led its members."
   },
   {
    "term": "古事記",
    "reading": "こじき",
-   "meaning": "奈良時代にできた、神話や歴史を記した書物。"
+   "meaning": "奈良時代にできた、神話や歴史を記した書物。",
+   "romaji": "Kojiki",
+   "meaning_en": "A book made in the Nara period that records myths and history."
   },
   {
    "term": "固定資産税",
    "reading": "こていしさんぜい",
-   "meaning": "土地や建物などにかかる税金。"
+   "meaning": "土地や建物などにかかる税金。",
+   "romaji": "Kotei shisanzei",
+   "meaning_en": "A tax levied on land, buildings and the like (property tax)."
   },
   {
    "term": "事代主",
    "reading": "ことしろぬし",
-   "meaning": "神話に出てくる神。大国主の子とされる。"
+   "meaning": "神話に出てくる神。大国主の子とされる。",
+   "romaji": "Kotoshironushi",
+   "meaning_en": "A deity in myth. Said to be a child of Ōkuninushi."
   },
   {
    "term": "御所",
    "reading": "ごしょ",
-   "meaning": "天皇が住む所。"
+   "meaning": "天皇が住む所。",
+   "romaji": "Gosho",
+   "meaning_en": "The place where the emperor lives."
   },
   {
    "term": "御真影",
    "reading": "ごしんえい",
-   "meaning": "戦前の学校などに配られた、天皇・皇后の写真。"
+   "meaning": "戦前の学校などに配られた、天皇・皇后の写真。",
+   "romaji": "Goshin’ei",
+   "meaning_en": "Portraits of the emperor and empress distributed to schools and elsewhere before the war."
   },
   {
    "term": "祭祀",
    "reading": "さいし",
-   "meaning": "神や祖先をまつる儀式。"
+   "meaning": "神や祖先をまつる儀式。",
+   "romaji": "Saishi",
+   "meaning_en": "Rituals of worshipping deities or ancestors."
   },
   {
    "term": "鎖国",
    "reading": "さこく",
-   "meaning": "江戸時代に、外国との行き来を制限したとされる政策。この言葉の使われ方は本サイトの項目で扱っている。"
+   "meaning": "江戸時代に、外国との行き来を制限したとされる政策。この言葉の使われ方は本サイトの項目で扱っている。",
+   "romaji": "Sakoku",
+   "meaning_en": "A policy said to have restricted exchange with foreign countries in the Edo period. How this word has been used is dealt with in an item of this site."
   },
   {
    "term": "鎖国論",
    "reading": "さこくろん",
-   "meaning": "志筑忠雄が江戸時代の終わりごろに訳した文書の題名。「鎖国」という言葉のはじまりとされる。"
+   "meaning": "志筑忠雄が江戸時代の終わりごろに訳した文書の題名。「鎖国」という言葉のはじまりとされる。",
+   "romaji": "Sakokuron",
+   "meaning_en": "The title of a document that Shizuki Tadao translated near the end of the Edo period. Said to be the beginning of the word “sakoku”."
   },
   {
    "term": "左上位",
    "reading": "さじょうい",
-   "meaning": "向かって見て、左側を上位(格が高い)とする考え方。"
+   "meaning": "向かって見て、左側を上位(格が高い)とする考え方。",
+   "romaji": "Sajōi",
+   "meaning_en": "The idea of regarding the left side, as seen facing it, as superior (higher in rank)."
   },
   {
    "term": "三重構造",
    "reading": "さんじゅうこうぞう",
-   "meaning": "日本人の成り立ちを、三つの集団が混ざったと説明するモデル。"
+   "meaning": "日本人の成り立ちを、三つの集団が混ざったと説明するモデル。",
+   "romaji": "Sanjū kōzō",
+   "meaning_en": "A model explaining the formation of the Japanese people as a mixture of three groups."
   },
   {
    "term": "式年遷宮",
    "reading": "しきねんせんぐう",
-   "meaning": "決まった年ごとに社殿を新しくして、神を移す祭り。伊勢神宮のものが有名。"
+   "meaning": "決まった年ごとに社殿を新しくして、神を移す祭り。伊勢神宮のものが有名。",
+   "romaji": "Shikinen sengū",
+   "meaning_en": "A festival in which shrine buildings are renewed and the deity moved at fixed intervals. That of Ise Jingū is famous."
   },
   {
    "term": "紫宸殿",
    "reading": "ししんでん",
-   "meaning": "京都御所の中心的な建物で、儀式が行われた。"
+   "meaning": "京都御所の中心的な建物で、儀式が行われた。",
+   "romaji": "Shishinden",
+   "meaning_en": "The central building of the Kyoto Imperial Palace, where ceremonies were held."
   },
   {
    "term": "氏族",
    "reading": "しぞく",
-   "meaning": "同じ祖先をもつと考える、古代の一族のまとまり。"
+   "meaning": "同じ祖先をもつと考える、古代の一族のまとまり。",
+   "romaji": "Shizoku",
+   "meaning_en": "A group of ancient kin regarded as having a common ancestor."
   },
   {
    "term": "七五三",
    "reading": "しちごさん",
-   "meaning": "子どもの成長を祝って、3歳・5歳・7歳に神社に参る行事。"
+   "meaning": "子どもの成長を祝って、3歳・5歳・7歳に神社に参る行事。",
+   "romaji": "Shichi-Go-San",
+   "meaning_en": "An event to celebrate children’s growth by visiting a shrine at ages 3, 5 and 7."
   },
   {
    "term": "志筑忠雄",
    "reading": "しづきただお",
-   "meaning": "江戸時代の蘭学者。"
+   "meaning": "江戸時代の蘭学者。",
+   "romaji": "Shizuki Tadao",
+   "meaning_en": "A scholar of Dutch learning in the Edo period."
   },
   {
    "term": "霜月祭",
    "reading": "しもつきまつり",
-   "meaning": "旧暦11月(霜月)に行われる祭り。"
+   "meaning": "旧暦11月(霜月)に行われる祭り。",
+   "romaji": "Shimotsuki-matsuri",
+   "meaning_en": "A festival held in the eleventh lunar month (shimotsuki)."
   },
   {
    "term": "社寺",
    "reading": "しゃじ",
-   "meaning": "神社と寺。"
+   "meaning": "神社と寺。",
+   "romaji": "Shaji",
+   "meaning_en": "Shrines and temples."
   },
   {
    "term": "宗教法人",
    "reading": "しゅうきょうほうじん",
-   "meaning": "法律に基づいて、宗教団体が持てる法人の資格。"
+   "meaning": "法律に基づいて、宗教団体が持てる法人の資格。",
+   "romaji": "Shūkyō hōjin",
+   "meaning_en": "The status of a corporation that a religious body can hold under law."
   },
   {
    "term": "拾骨",
    "reading": "しゅうこつ",
-   "meaning": "火葬のあとの骨を拾うこと。"
+   "meaning": "火葬のあとの骨を拾うこと。",
+   "romaji": "Shūkotsu",
+   "meaning_en": "Picking up the bones after cremation."
   },
   {
    "term": "収骨",
    "reading": "しゅうこつ",
-   "meaning": "火葬のあとの骨を骨壺に納めること。"
+   "meaning": "火葬のあとの骨を骨壺に納めること。",
+   "romaji": "Shūkotsu",
+   "meaning_en": "Putting the bones after cremation into an urn."
   },
   {
    "term": "修身",
    "reading": "しゅうしん",
-   "meaning": "戦前の学校で教えられた、道徳の科目。"
+   "meaning": "戦前の学校で教えられた、道徳の科目。",
+   "romaji": "Shūshin",
+   "meaning_en": "A moral-education subject taught in prewar schools."
   },
   {
    "term": "集団自決",
    "reading": "しゅうだんじけつ",
-   "meaning": "沖縄戦で、住民が集団で死に至った出来事をさす呼び方。呼び方や軍の関与の評価には議論がある。"
+   "meaning": "沖縄戦で、住民が集団で死に至った出来事をさす呼び方。呼び方や軍の関与の評価には議論がある。",
+   "romaji": "Shūdan jiketsu",
+   "meaning_en": "A name for the events in the Battle of Okinawa in which residents collectively came to their deaths. There is debate about the name and about how to evaluate the military’s involvement."
   },
   {
    "term": "宗門人別改帳",
    "reading": "しゅうもんにんべつあらためちょう",
-   "meaning": "江戸時代に、住民の宗旨(どの寺の檀家か)や家族の構成を調べて記した帳簿。"
+   "meaning": "江戸時代に、住民の宗旨(どの寺の檀家か)や家族の構成を調べて記した帳簿。",
+   "romaji": "Shūmon ninbetsu aratamechō",
+   "meaning_en": "A register of the Edo period that recorded residents’ religious affiliation (which temple’s parishioners they were) and household composition."
   },
   {
    "term": "修験宗",
    "reading": "しゅげんしゅう",
-   "meaning": "山で修行する山伏たちの宗派。"
+   "meaning": "山で修行する山伏たちの宗派。",
+   "romaji": "Shugenshū",
+   "meaning_en": "The sect of the yamabushi who train in the mountains."
   },
   {
    "term": "招魂社",
    "reading": "しょうこんしゃ",
-   "meaning": "戦死者の霊をまつる神社。"
+   "meaning": "戦死者の霊をまつる神社。",
+   "romaji": "Shōkonsha",
+   "meaning_en": "A shrine that enshrines the spirits of the war dead."
   },
   {
    "term": "続日本紀",
    "reading": "しょくにほんぎ",
-   "meaning": "『日本書紀』のあとの時代の歴史を記した書物。"
+   "meaning": "『日本書紀』のあとの時代の歴史を記した書物。",
+   "romaji": "Shoku Nihongi",
+   "meaning_en": "A book recording history in the period after the Nihon Shoki."
   },
   {
    "term": "神職",
    "reading": "しんしょく",
-   "meaning": "神社で祭りや神事に仕える人。"
+   "meaning": "神社で祭りや神事に仕える人。",
+   "romaji": "Shinshoku",
+   "meaning_en": "A person who serves at a shrine in festivals and rites."
   },
   {
    "term": "神仏習合",
    "reading": "しんぶつしゅうごう",
-   "meaning": "神への信仰と仏教が混ざり合い、一緒に信じられていたこと。"
+   "meaning": "神への信仰と仏教が混ざり合い、一緒に信じられていたこと。",
+   "romaji": "Shinbutsu shūgō",
+   "meaning_en": "The mixing of belief in the kami with Buddhism, so that they were believed in together."
   },
   {
    "term": "神仏分離",
    "reading": "しんぶつぶんり",
-   "meaning": "明治政府が、神社と寺、神と仏をはっきり分けさせた政策。"
+   "meaning": "明治政府が、神社と寺、神と仏をはっきり分けさせた政策。",
+   "romaji": "Shinbutsu bunri",
+   "meaning_en": "The Meiji government’s policy of making shrines and temples, kami and buddhas, clearly separated."
   },
   {
    "term": "寺社領",
    "reading": "じしゃりょう",
-   "meaning": "寺や神社が持っていた土地。"
+   "meaning": "寺や神社が持っていた土地。",
+   "romaji": "Jisharyō",
+   "meaning_en": "Land held by temples and shrines."
   },
   {
    "term": "持明院統",
    "reading": "じみょういんとう",
-   "meaning": "後深草天皇の系統。のち北朝になった。"
+   "meaning": "後深草天皇の系統。のち北朝になった。",
+   "romaji": "Jimyōin-tō",
+   "meaning_en": "The line of Emperor Go-Fukakusa. It later became the Northern Court."
   },
   {
    "term": "準用",
    "reading": "じゅんよう",
-   "meaning": "ほかのきまりを、必要な変更を加えて当てはめること。"
+   "meaning": "ほかのきまりを、必要な変更を加えて当てはめること。",
+   "romaji": "Jun’yō",
+   "meaning_en": "Applying another rule with necessary changes (mutatis mutandis)."
   },
   {
    "term": "縄文",
    "reading": "じょうもん",
-   "meaning": "日本で1万年以上続いた、狩りや採集を中心とした時代。"
+   "meaning": "日本で1万年以上続いた、狩りや採集を中心とした時代。",
+   "romaji": "Jōmon",
+   "meaning_en": "The period of over ten thousand years in Japan centered on hunting and gathering."
   },
   {
    "term": "上諭",
    "reading": "じょうゆ",
-   "meaning": "憲法や法律の公布のときに、天皇が述べる前文。"
+   "meaning": "憲法や法律の公布のときに、天皇が述べる前文。",
+   "romaji": "Jōyu",
+   "meaning_en": "The preface the emperor states when a constitution or law is promulgated."
   },
   {
    "term": "譲与",
    "reading": "じょうよ",
-   "meaning": "物をただで人にゆずり渡すこと。"
+   "meaning": "物をただで人にゆずり渡すこと。",
+   "romaji": "Jōyo",
+   "meaning_en": "Handing something over to someone free of charge."
   },
   {
    "term": "女系",
    "reading": "じょけい",
-   "meaning": "母方をたどって先祖につながる血筋のこと。"
+   "meaning": "母方をたどって先祖につながる血筋のこと。",
+   "romaji": "Jokei",
+   "meaning_en": "A bloodline traced through the mother’s side to an ancestor (matrilineal)."
   },
   {
    "term": "神祇",
    "reading": "じんぎ",
-   "meaning": "天の神(天神)と地の神(地祇)。神々のこと。"
+   "meaning": "天の神(天神)と地の神(地祇)。神々のこと。",
+   "romaji": "Jingi",
+   "meaning_en": "The heavenly deities (tenjin) and the earthly deities (chigi): the gods."
   },
   {
    "term": "神祇官",
    "reading": "じんぎかん",
-   "meaning": "神道の祭りなどをつかさどった役所。"
+   "meaning": "神道の祭りなどをつかさどった役所。",
+   "romaji": "Jingikan",
+   "meaning_en": "The government office in charge of Shinto festivals and the like."
   },
   {
    "term": "神宮寺",
    "reading": "じんぐうじ",
-   "meaning": "神社に付けて建てられた寺。神仏習合の例とされる。"
+   "meaning": "神社に付けて建てられた寺。神仏習合の例とされる。",
+   "romaji": "Jingūji",
+   "meaning_en": "A temple built attached to a shrine. Regarded as an example of shinbutsu shūgō."
   },
   {
    "term": "神社検定",
    "reading": "じんじゃけんてい",
-   "meaning": "神社についての知識を問う検定。"
+   "meaning": "神社についての知識を問う検定。",
+   "romaji": "Jinja kentei",
+   "meaning_en": "An examination testing knowledge about shrines."
   },
   {
    "term": "神社合祀",
    "reading": "じんじゃごうし",
-   "meaning": "小さな神社を整理して、大きな神社にまとめること。明治の終わりごろに政府が進めた。"
+   "meaning": "小さな神社を整理して、大きな神社にまとめること。明治の終わりごろに政府が進めた。",
+   "romaji": "Jinja gōshi",
+   "meaning_en": "Consolidating small shrines into larger shrines. Promoted by the government around the end of Meiji."
   },
   {
    "term": "神社本庁",
    "reading": "じんじゃほんちょう",
-   "meaning": "全国の多くの神社を包括する宗教法人。"
+   "meaning": "全国の多くの神社を包括する宗教法人。",
+   "romaji": "Jinja Honchō",
+   "meaning_en": "The Association of Shinto Shrines: a religious corporation that includes many shrines across the country."
   },
   {
    "term": "神武天皇",
    "reading": "じんむてんのう",
-   "meaning": "『日本書紀』などで初代の天皇とされる人物。"
+   "meaning": "『日本書紀』などで初代の天皇とされる人物。",
+   "romaji": "Jinmu Tennō",
+   "meaning_en": "The figure regarded as the first emperor in the Nihon Shoki and elsewhere."
   },
   {
    "term": "政教分離",
    "reading": "せいきょうぶんり",
-   "meaning": "国家と宗教を切りはなすという原則。"
+   "meaning": "国家と宗教を切りはなすという原則。",
+   "romaji": "Seikyō bunri",
+   "meaning_en": "The principle of separating the state from religion."
   },
   {
    "term": "正座",
    "reading": "せいざ",
-   "meaning": "足を折りたたんで、きちんとすわる座り方。"
+   "meaning": "足を折りたたんで、きちんとすわる座り方。",
+   "romaji": "Seiza",
+   "meaning_en": "A way of sitting properly with the legs folded under."
   },
   {
    "term": "生体解剖",
    "reading": "せいたいかいぼう",
-   "meaning": "生きている人の体を切り開いて調べること。戦争中の事件として本サイトの項目で扱っている。"
+   "meaning": "生きている人の体を切り開いて調べること。戦争中の事件として本サイトの項目で扱っている。",
+   "romaji": "Seitai kaibō",
+   "meaning_en": "Cutting open and examining the body of a living person (vivisection). It is dealt with in an item of this site as an incident during the war."
   },
   {
    "term": "正中",
    "reading": "せいちゅう",
-   "meaning": "参道の真ん中。神の通り道とする考え方がある。"
+   "meaning": "参道の真ん中。神の通り道とする考え方がある。",
+   "romaji": "Seichū",
+   "meaning_en": "The middle of an approach path. There is an idea that it is the path of the god."
   },
   {
    "term": "戦陣訓",
    "reading": "せんじんくん",
-   "meaning": "昭和の戦争中に、軍人の心得として示された文書。"
+   "meaning": "昭和の戦争中に、軍人の心得として示された文書。",
+   "romaji": "Senjinkun",
+   "meaning_en": "A document presented as a code for soldiers during the Shōwa war (Field Service Code)."
   },
   {
    "term": "践祚",
    "reading": "せんそ",
-   "meaning": "天皇の位を受け継ぐこと。"
+   "meaning": "天皇の位を受け継ぐこと。",
+   "romaji": "Senso",
+   "meaning_en": "Succeeding to the imperial throne."
   },
   {
    "term": "戦没者",
    "reading": "せんぼつしゃ",
-   "meaning": "戦争で亡くなった人。"
+   "meaning": "戦争で亡くなった人。",
+   "romaji": "Senbotsusha",
+   "meaning_en": "People who died in war."
   },
   {
    "term": "即位礼",
    "reading": "そくいれい",
-   "meaning": "天皇が即位したことを内外に示す儀式。"
+   "meaning": "天皇が即位したことを内外に示す儀式。",
+   "romaji": "Sokuirei",
+   "meaning_en": "A ceremony that shows inside and outside the country that the emperor has acceded."
   },
   {
    "term": "俗説",
    "reading": "ぞくせつ",
-   "meaning": "根拠がはっきりしないまま、世間に広まった説。"
+   "meaning": "根拠がはっきりしないまま、世間に広まった説。",
+   "romaji": "Zokusetsu",
+   "meaning_en": "A theory that spread among the public without a clear basis."
   },
   {
    "term": "田中智学",
    "reading": "たなかちがく",
-   "meaning": "日蓮主義の宗教家。「八紘一宇」という語をつくったとされる。"
+   "meaning": "日蓮主義の宗教家。「八紘一宇」という語をつくったとされる。",
+   "romaji": "Tanaka Chigaku",
+   "meaning_en": "A Nichirenist religious figure. Said to have coined the term “hakkō ichiu”."
   },
   {
    "term": "大覚寺統",
    "reading": "だいかくじとう",
-   "meaning": "亀山天皇の系統。のち南朝になった。"
+   "meaning": "亀山天皇の系統。のち南朝になった。",
+   "romaji": "Daikakuji-tō",
+   "meaning_en": "The line of Emperor Kameyama. It later became the Southern Court."
   },
   {
    "term": "太政官",
    "reading": "だじょうかん",
-   "meaning": "明治のはじめの、政府の最高機関。"
+   "meaning": "明治のはじめの、政府の最高機関。",
+   "romaji": "Dajōkan",
+   "meaning_en": "The supreme organ of the government in early Meiji."
   },
   {
    "term": "太政官布告",
    "reading": "だじょうかんふこく",
-   "meaning": "明治のはじめに、太政官が国民に知らせた法令。"
+   "meaning": "明治のはじめに、太政官が国民に知らせた法令。",
+   "romaji": "Dajōkan fukoku",
+   "meaning_en": "Laws the Dajōkan announced to the people in early Meiji."
   },
   {
    "term": "檀家",
    "reading": "だんか",
-   "meaning": "特定の寺を支える家。"
+   "meaning": "特定の寺を支える家。",
+   "romaji": "Danka",
+   "meaning_en": "A household that supports a particular temple."
   },
   {
    "term": "男系",
    "reading": "だんけい",
-   "meaning": "父方の親をたどって先祖につながる血筋のこと。"
+   "meaning": "父方の親をたどって先祖につながる血筋のこと。",
+   "romaji": "Dankei",
+   "meaning_en": "A bloodline traced through the father’s side to an ancestor (patrilineal)."
   },
   {
    "term": "男系男子",
    "reading": "だんけいだんし",
-   "meaning": "父方をたどると天皇につながる、男の子孫。"
+   "meaning": "父方をたどると天皇につながる、男の子孫。",
+   "romaji": "Dankei danshi",
+   "meaning_en": "A male descendant who connects to an emperor by tracing the father’s side."
   },
   {
    "term": "地縁",
    "reading": "ちえん",
-   "meaning": "同じ土地に住むことでできるつながり。"
+   "meaning": "同じ土地に住むことでできるつながり。",
+   "romaji": "Chien",
+   "meaning_en": "Ties formed by living in the same place."
   },
   {
    "term": "地租",
    "reading": "ちそ",
-   "meaning": "土地にかかる税金。明治に新しくなった。"
+   "meaning": "土地にかかる税金。明治に新しくなった。",
+   "romaji": "Chiso",
+   "meaning_en": "A tax on land. It became new in Meiji."
   },
   {
    "term": "地租改正",
    "reading": "ちそかいせい",
-   "meaning": "明治のはじめに行われた、土地の税のしくみの改革。"
+   "meaning": "明治のはじめに行われた、土地の税のしくみの改革。",
+   "romaji": "Chiso kaisei",
+   "meaning_en": "The reform of the land-tax system carried out in early Meiji."
   },
   {
    "term": "千歳飴",
    "reading": "ちとせあめ",
-   "meaning": "七五三で配られる、細長い紅白の飴。"
+   "meaning": "七五三で配られる、細長い紅白の飴。",
+   "romaji": "Chitose-ame",
+   "meaning_en": "A long, thin red-and-white candy handed out at Shichi-Go-San."
   },
   {
    "term": "中央防災会議",
    "reading": "ちゅうおうぼうさいかいぎ",
-   "meaning": "国の防災の計画を話し合う、内閣府の会議。"
+   "meaning": "国の防災の計画を話し合う、内閣府の会議。",
+   "romaji": "Chūō Bōsai Kaigi",
+   "meaning_en": "The Central Disaster Management Council: a Cabinet Office council that discusses the state’s disaster-prevention plans."
   },
   {
    "term": "手水",
    "reading": "ちょうず",
-   "meaning": "神社や寺で、参拝の前に手や口を清める水。"
+   "meaning": "神社や寺で、参拝の前に手や口を清める水。",
+   "romaji": "Chōzu",
+   "meaning_en": "Water for purifying the hands and mouth before worship at a shrine or temple (also read temizu)."
   },
   {
    "term": "勅令",
    "reading": "ちょくれい",
-   "meaning": "天皇の命令の形で出された、戦前の法令。"
+   "meaning": "天皇の命令の形で出された、戦前の法令。",
+   "romaji": "Chokurei",
+   "meaning_en": "A prewar law issued in the form of an imperial command."
   },
   {
    "term": "鎮守",
    "reading": "ちんじゅ",
-   "meaning": "その土地や村、寺などを守る神、またはその神社。"
+   "meaning": "その土地や村、寺などを守る神、またはその神社。",
+   "romaji": "Chinju",
+   "meaning_en": "A deity that protects the land, village, temple and so on, or its shrine."
   },
   {
    "term": "創られた伝統",
    "reading": "つくられたでんとう",
-   "meaning": "古くからあるように見えて、実は比較的新しい時代に作られた伝統のこと。歴史学者ホブズボームらの言葉。"
+   "meaning": "古くからあるように見えて、実は比較的新しい時代に作られた伝統のこと。歴史学者ホブズボームらの言葉。",
+   "romaji": "Tsukurareta dentō",
+   "meaning_en": "Invented tradition: a tradition that looks old but was in fact made in a relatively new period. A phrase of the historian Hobsbawm and others."
   },
   {
    "term": "寺請",
    "reading": "てらうけ",
-   "meaning": "江戸時代、寺が住民の信仰(とくにキリスト教徒でないこと)を証明した制度。"
+   "meaning": "江戸時代、寺が住民の信仰(とくにキリスト教徒でないこと)を証明した制度。",
+   "romaji": "Terauke",
+   "meaning_en": "A system of the Edo period in which a temple certified a resident’s faith (especially that they were not a Christian)."
   },
   {
    "term": "十日戎",
    "reading": "とおかえびす",
-   "meaning": "1月10日ごろ、えびす神をまつる神社で行われる祭り。"
+   "meaning": "1月10日ごろ、えびす神をまつる神社で行われる祭り。",
+   "romaji": "Tōka Ebisu",
+   "meaning_en": "A festival held around 10 January at shrines that worship the god Ebisu."
   },
   {
    "term": "特別攻撃",
    "reading": "とくべつこうげき",
-   "meaning": "乗り物や兵器ごと敵に突入する、生還を前提としない攻撃。特攻。"
+   "meaning": "乗り物や兵器ごと敵に突入する、生還を前提としない攻撃。特攻。",
+   "romaji": "Tokubetsu kōgeki",
+   "meaning_en": "An attack in which a vehicle or weapon rams the enemy, without the premise of returning alive. Tokkō (special attack)."
   },
   {
    "term": "年神",
    "reading": "としがみ",
-   "meaning": "正月にやってくるとされる神。"
+   "meaning": "正月にやってくるとされる神。",
+   "romaji": "Toshigami",
+   "meaning_en": "A deity said to come at New Year."
   },
   {
    "term": "渡来人",
    "reading": "とらいじん",
-   "meaning": "古い時代に、大陸や朝鮮半島から日本に移り住んだ人々。"
+   "meaning": "古い時代に、大陸や朝鮮半島から日本に移り住んだ人々。",
+   "romaji": "Toraijin",
+   "meaning_en": "People who migrated to Japan from the continent and the Korean Peninsula in early times."
   },
   {
    "term": "土井ヶ浜",
    "reading": "どいがはま",
-   "meaning": "山口県にある弥生時代の遺跡。多くの人骨が出た。"
+   "meaning": "山口県にある弥生時代の遺跡。多くの人骨が出た。",
+   "romaji": "Doigahama",
+   "meaning_en": "A Yayoi-period site in Yamaguchi Prefecture where many human bones were found."
   },
   {
    "term": "同族",
    "reading": "どうぞく",
-   "meaning": "同じ一族に属する家どうし。"
+   "meaning": "同じ一族に属する家どうし。",
+   "romaji": "Dōzoku",
+   "meaning_en": "Households belonging to the same kin group."
   },
   {
    "term": "南京事件",
    "reading": "なんきんじけん",
-   "meaning": "1937年、日本軍が中国の南京を占領した前後に起きた、多数の殺害などの事件。被害の人数は研究者の間で見方が分かれる。"
+   "meaning": "1937年、日本軍が中国の南京を占領した前後に起きた、多数の殺害などの事件。被害の人数は研究者の間で見方が分かれる。",
+   "romaji": "Nankin jiken",
+   "meaning_en": "The Nanjing Incident: incidents of many killings and the like that occurred around the time the Japanese military occupied Nanjing, China, in 1937. Views among researchers differ on the number of victims."
   },
   {
    "term": "日本書紀",
    "reading": "にほんしょき",
-   "meaning": "奈良時代にできた、日本最古級の歴史書の一つ。"
+   "meaning": "奈良時代にできた、日本最古級の歴史書の一つ。",
+   "romaji": "Nihon Shoki",
+   "meaning_en": "One of the oldest history books of Japan, made in the Nara period."
   },
   {
    "term": "二礼",
    "reading": "にれい",
-   "meaning": "おじぎを二回すること。神社の参拝で「二礼二拍手一礼」と言われる作法の最初の部分。"
+   "meaning": "おじぎを二回すること。神社の参拝で「二礼二拍手一礼」と言われる作法の最初の部分。",
+   "romaji": "Nirei",
+   "meaning_en": "Bowing twice. The first part of the manner said to be “two bows, two claps, one bow” in worship at shrines."
   },
   {
    "term": "廃仏毀釈",
    "reading": "はいぶつきしゃく",
-   "meaning": "明治のはじめに起きた、寺や仏像、僧侶の立場をおとしめたり壊したりする動き。"
+   "meaning": "明治のはじめに起きた、寺や仏像、僧侶の立場をおとしめたり壊したりする動き。",
+   "romaji": "Haibutsu kishaku",
+   "meaning_en": "A movement in early Meiji to denigrate or destroy temples, Buddhist images and the standing of monks."
   },
   {
    "term": "拝礼",
    "reading": "はいれい",
-   "meaning": "神や仏に向かっておじぎや祈りをすること。"
+   "meaning": "神や仏に向かっておじぎや祈りをすること。",
+   "romaji": "Hairei",
+   "meaning_en": "Bowing or praying toward a deity or buddha."
   },
   {
    "term": "袴着",
    "reading": "はかまぎ",
-   "meaning": "子どもが初めて袴をつける儀式。"
+   "meaning": "子どもが初めて袴をつける儀式。",
+   "romaji": "Hakamagi",
+   "meaning_en": "A ceremony in which a child first puts on hakama."
   },
   {
    "term": "八紘一宇",
    "reading": "はっこういちう",
-   "meaning": "戦争中に使われたスローガン。「世界を一つの家のようにする」という意味の言葉で、日本の海外進出を正当化するために使われた。"
+   "meaning": "戦争中に使われたスローガン。「世界を一つの家のようにする」という意味の言葉で、日本の海外進出を正当化するために使われた。",
+   "romaji": "Hakkō ichiu",
+   "meaning_en": "A slogan used during the war. Meaning “to make the world like one house”, it was used to justify Japan’s expansion overseas."
   },
   {
    "term": "万博",
    "reading": "ばんぱく",
-   "meaning": "万国博覧会の略。"
+   "meaning": "万国博覧会の略。",
+   "romaji": "Banpaku",
+   "meaning_en": "Short for Bankoku Hakurankai: a world exposition."
   },
   {
    "term": "比叡山",
    "reading": "ひえいざん",
-   "meaning": "京都府と滋賀県の境にある山。延暦寺がある。"
+   "meaning": "京都府と滋賀県の境にある山。延暦寺がある。",
+   "romaji": "Hieizan",
+   "meaning_en": "A mountain on the border of Kyoto and Shiga Prefectures. Enryakuji stands there."
   },
   {
    "term": "非課税",
    "reading": "ひかぜい",
-   "meaning": "税金をかけないこと。"
+   "meaning": "税金をかけないこと。",
+   "romaji": "Hikazei",
+   "meaning_en": "Not levying tax."
   },
   {
    "term": "柄杓",
    "reading": "ひしゃく",
-   "meaning": "水をくむ、柄のついた道具。"
+   "meaning": "水をくむ、柄のついた道具。",
+   "romaji": "Hishaku",
+   "meaning_en": "A long-handled tool for scooping water (ladle)."
   },
   {
    "term": "福男",
    "reading": "ふくおとこ",
-   "meaning": "西宮神社の十日戎で行われる「福男選び」で、上位に入った人の呼び名。"
+   "meaning": "西宮神社の十日戎で行われる「福男選び」で、上位に入った人の呼び名。",
+   "romaji": "Fukuotoko",
+   "meaning_en": "The name for those who place high in the “fortune-man selection” at Nishinomiya Shrine’s Tōka Ebisu."
   },
   {
    "term": "伏見",
    "reading": "ふしみ",
-   "meaning": "京都市の地名。稲荷神社の総本社(伏見稲荷大社)がある。"
+   "meaning": "京都市の地名。稲荷神社の総本社(伏見稲荷大社)がある。",
+   "romaji": "Fushimi",
+   "meaning_en": "A place name in Kyoto. The head shrine of the Inari shrines (Fushimi Inari Taisha) is there."
   },
   {
    "term": "俘虜",
    "reading": "ふりょ",
-   "meaning": "「捕虜」と同じ意味の古い言い方。"
+   "meaning": "「捕虜」と同じ意味の古い言い方。",
+   "romaji": "Furyo",
+   "meaning_en": "An old expression with the same meaning as “horyo” (prisoner of war)."
   },
   {
    "term": "保安隊",
    "reading": "ほあんたい",
-   "meaning": "冀東防共自治政府が持っていた武装部隊。"
+   "meaning": "冀東防共自治政府が持っていた武装部隊。",
+   "romaji": "Hoantai",
+   "meaning_en": "The armed force held by the East Hebei Anti-Communist Autonomous Government (peace-preservation corps)."
   },
   {
    "term": "骨上げ",
    "reading": "ほねあげ",
-   "meaning": "火葬のあと、遺族が骨を拾って骨壺に納めること。"
+   "meaning": "火葬のあと、遺族が骨を拾って骨壺に納めること。",
+   "romaji": "Kotsuage",
+   "meaning_en": "After cremation, the bereaved pick up the bones and put them into an urn."
   },
   {
    "term": "捕虜",
    "reading": "ほりょ",
-   "meaning": "戦争で敵に捕らえられた兵士。"
+   "meaning": "戦争で敵に捕らえられた兵士。",
+   "romaji": "Horyo",
+   "meaning_en": "A soldier captured by the enemy in war (prisoner of war)."
   },
   {
    "term": "本家",
    "reading": "ほんけ",
-   "meaning": "一族の中心になる家。分かれた家は分家という。"
+   "meaning": "一族の中心になる家。分かれた家は分家という。",
+   "romaji": "Honke",
+   "meaning_en": "The household at the center of a kin group. Households that branched off are called bunke."
   },
   {
    "term": "本地垂迹",
    "reading": "ほんじすいじゃく",
-   "meaning": "日本の神は、本当の姿(本地)である仏が、人々を救うために姿を変えて現れたもの(垂迹)だとする考え方。"
+   "meaning": "日本の神は、本当の姿(本地)である仏が、人々を救うために姿を変えて現れたもの(垂迹)だとする考え方。",
+   "romaji": "Honji suijaku",
+   "meaning_en": "The idea that Japan’s kami are buddhas, the true forms (honji), who appeared in changed form (suijaku) to save people."
   },
   {
    "term": "本膳",
    "reading": "ほんぜん",
-   "meaning": "武家の儀式の食事で、正式とされた膳立て。複数の膳を並べる。"
+   "meaning": "武家の儀式の食事で、正式とされた膳立て。複数の膳を並べる。",
+   "romaji": "Honzen",
+   "meaning_en": "The tray arrangement regarded as formal in the meals of warrior ceremonies. Several trays are laid out."
   },
   {
    "term": "防疫給水部",
    "reading": "ぼうえききゅうすいぶ",
-   "meaning": "感染症の予防や、きれいな水の補給を役目とした、軍の部隊の名前。"
+   "meaning": "感染症の予防や、きれいな水の補給を役目とした、軍の部隊の名前。",
+   "romaji": "Bōeki kyūsuibu",
+   "meaning_en": "The name of military units whose duties were preventing infectious disease and supplying clean water."
   },
   {
    "term": "防空法",
    "reading": "ぼうくうほう",
-   "meaning": "空襲に備えて、国民に消火などを義務づけた、戦前の法律。"
+   "meaning": "空襲に備えて、国民に消火などを義務づけた、戦前の法律。",
+   "romaji": "Bōkūhō",
+   "meaning_en": "A prewar law that obliged the people to fight fires and the like in preparation for air raids."
   },
   {
    "term": "孫引き",
    "reading": "まごびき",
-   "meaning": "原典ではなく、ほかの本や記事に引用されたものを、さらに引くこと。"
+   "meaning": "原典ではなく、ほかの本や記事に引用されたものを、さらに引くこと。",
+   "romaji": "Magobiki",
+   "meaning_en": "Citing, not the original, but something quoted in another book or article."
   },
   {
    "term": "松の内",
    "reading": "まつのうち",
-   "meaning": "正月の門松を立てておく期間。"
+   "meaning": "正月の門松を立てておく期間。",
+   "romaji": "Matsu no uchi",
+   "meaning_en": "The period during which the New Year kadomatsu is left standing."
   },
   {
    "term": "丸餅",
    "reading": "まるもち",
-   "meaning": "丸い形の餅。"
+   "meaning": "丸い形の餅。",
+   "romaji": "Maru-mochi",
+   "meaning_en": "Mochi in a round shape."
   },
   {
    "term": "万葉集",
    "reading": "まんようしゅう",
-   "meaning": "奈良時代ごろの和歌を集めた、日本最古級の歌集。"
+   "meaning": "奈良時代ごろの和歌を集めた、日本最古級の歌集。",
+   "romaji": "Man’yōshū",
+   "meaning_en": "One of the oldest collections of Japanese poetry, from around the Nara period."
   },
   {
    "term": "禊",
    "reading": "みそぎ",
-   "meaning": "水で体を洗い清めること。"
+   "meaning": "水で体を洗い清めること。",
+   "romaji": "Misogi",
+   "meaning_en": "Washing and purifying the body with water."
   },
   {
    "term": "南方熊楠",
    "reading": "みなかたくまぐす",
-   "meaning": "和歌山出身の博物学者・民俗学者。神社合祀に反対した。"
+   "meaning": "和歌山出身の博物学者・民俗学者。神社合祀に反対した。",
+   "romaji": "Minakata Kumagusu",
+   "meaning_en": "A naturalist and folklorist from Wakayama. He opposed the merger of shrines."
   },
   {
    "term": "宮座",
    "reading": "みやざ",
-   "meaning": "神社の祭りを、村の決まった家々などが順番に受け持つしくみ。"
+   "meaning": "神社の祭りを、村の決まった家々などが順番に受け持つしくみ。",
+   "romaji": "Miyaza",
+   "meaning_en": "A system in which certain households of a village take turns bearing a shrine’s festival."
   },
   {
    "term": "民藝",
    "reading": "みんげい",
-   "meaning": "名もない職人の日用品の美を見直した運動。"
+   "meaning": "名もない職人の日用品の美を見直した運動。",
+   "romaji": "Mingei",
+   "meaning_en": "A movement that reappraised the beauty of everyday objects made by nameless craftsmen."
   },
   {
    "term": "民俗学",
    "reading": "みんぞくがく",
-   "meaning": "ふつうの人々の暮らしや習わしを調べる学問。"
+   "meaning": "ふつうの人々の暮らしや習わしを調べる学問。",
+   "romaji": "Minzokugaku",
+   "meaning_en": "The study of ordinary people’s lives and customs (folklore studies)."
   },
   {
    "term": "ムスリム",
    "reading": "むすりむ",
-   "meaning": "イスラム教を信じる人。"
+   "meaning": "イスラム教を信じる人。",
+   "romaji": "Musurimu",
+   "meaning_en": "A person who believes in Islam (Muslim)."
   },
   {
    "term": "明治民法",
    "reading": "めいじみんぽう",
-   "meaning": "1898年に施行された、家族や相続などのきまりを定めた法律。"
+   "meaning": "1898年に施行された、家族や相続などのきまりを定めた法律。",
+   "romaji": "Meiji Minpō",
+   "meaning_en": "The law enforced in 1898 that set rules on family, inheritance and so on (Meiji Civil Code)."
   },
   {
    "term": "銘々膳",
    "reading": "めいめいぜん",
-   "meaning": "一人ずつに出す、小さな膳。"
+   "meaning": "一人ずつに出す、小さな膳。",
+   "romaji": "Meimei-zen",
+   "meaning_en": "A small tray served to each person individually."
   },
   {
    "term": "免税",
    "reading": "めんぜい",
-   "meaning": "税金を免除すること。"
+   "meaning": "税金を免除すること。",
+   "romaji": "Menzei",
+   "meaning_en": "Exempting from tax."
   },
   {
    "term": "モスク",
    "reading": "もすく",
-   "meaning": "イスラム教の礼拝所。"
+   "meaning": "イスラム教の礼拝所。",
+   "romaji": "Mosuku",
+   "meaning_en": "A place of worship of Islam (mosque)."
   },
   {
    "term": "守貞謾稿",
    "reading": "もりさだまんこう",
-   "meaning": "江戸時代の終わり近くに書かれた、風俗を細かく記録した本。"
+   "meaning": "江戸時代の終わり近くに書かれた、風俗を細かく記録した本。",
+   "romaji": "Morisada Mankō",
+   "meaning_en": "A book written near the end of the Edo period that records customs in detail."
   },
   {
    "term": "焼き討ち",
    "reading": "やきうち",
-   "meaning": "建物に火をつけて攻めること。"
+   "meaning": "建物に火をつけて攻めること。",
+   "romaji": "Yakiuchi",
+   "meaning_en": "Attacking by setting buildings on fire."
   },
   {
    "term": "屋敷神",
    "reading": "やしきがみ",
-   "meaning": "家の敷地の中のすみに祀る神。"
+   "meaning": "家の敷地の中のすみに祀る神。",
+   "romaji": "Yashikigami",
+   "meaning_en": "A god enshrined in a corner of a house’s grounds."
   },
   {
    "term": "柳田國男",
    "reading": "やなぎたくにお",
-   "meaning": "日本の民俗学をはじめた人。"
+   "meaning": "日本の民俗学をはじめた人。",
+   "romaji": "Yanagita Kunio",
+   "meaning_en": "The person who began Japanese folklore studies."
   },
   {
    "term": "八開手",
    "reading": "やひらで",
-   "meaning": "手を八回打つ拝礼。伊勢神宮の神職の作法として本サイトに出てくる。"
+   "meaning": "手を八回打つ拝礼。伊勢神宮の神職の作法として本サイトに出てくる。",
+   "romaji": "Hachibirakude",
+   "meaning_en": "A worship manner of clapping eight times. It appears on this site as the manner of Ise Jingū’s priests."
   },
   {
    "term": "山伏",
    "reading": "やまぶし",
-   "meaning": "山にこもって修行する、修験道の行者。"
+   "meaning": "山にこもって修行する、修験道の行者。",
+   "romaji": "Yamabushi",
+   "meaning_en": "Practitioners of Shugendō who train secluded in the mountains."
   },
   {
    "term": "弥生",
    "reading": "やよい",
-   "meaning": "稲作や金属器が広がった時代。"
+   "meaning": "稲作や金属器が広がった時代。",
+   "romaji": "Yayoi",
+   "meaning_en": "The period in which rice farming and metal tools spread."
   },
   {
    "term": "猶子",
    "reading": "ゆうし",
-   "meaning": "親子の関係を結ぶこと。養子に近い関係。"
+   "meaning": "親子の関係を結ぶこと。養子に近い関係。",
+   "romaji": "Yūshi",
+   "meaning_en": "Forming a parent–child relationship. A relationship close to adoption."
   },
   {
    "term": "抑留",
    "reading": "よくりゅう",
-   "meaning": "捕らえて、ある場所に長くとどめておくこと。"
+   "meaning": "捕らえて、ある場所に長くとどめておくこと。",
+   "romaji": "Yokuryū",
+   "meaning_en": "Capturing and holding someone in a place for a long time (internment)."
   },
   {
    "term": "罹災",
    "reading": "りさい",
-   "meaning": "災害にあうこと。"
+   "meaning": "災害にあうこと。",
+   "romaji": "Risai",
+   "meaning_en": "Suffering a disaster."
   },
   {
    "term": "律令国家",
    "reading": "りつりょうこっか",
-   "meaning": "律(刑法)と令(行政法)という法で治めた、古代の国家。"
+   "meaning": "律(刑法)と令(行政法)という法で治めた、古代の国家。",
+   "romaji": "Ritsuryō kokka",
+   "meaning_en": "An ancient state governed by the laws of ritsu (penal law) and ryō (administrative law)."
   },
   {
    "term": "琉球",
    "reading": "りゅうきゅう",
-   "meaning": "いまの沖縄県にあった王国。"
+   "meaning": "いまの沖縄県にあった王国。",
+   "romaji": "Ryūkyū",
+   "meaning_en": "A kingdom that existed in what is now Okinawa Prefecture."
   },
   {
    "term": "両統迭立",
    "reading": "りょうとうてつりつ",
-   "meaning": "鎌倉後期に、持明院統と大覚寺統の二つの皇統が、交互に天皇になった慣行。"
+   "meaning": "鎌倉後期に、持明院統と大覚寺統の二つの皇統が、交互に天皇になった慣行。",
+   "romaji": "Ryōtō tetsuritsu",
+   "meaning_en": "The practice in the late Kamakura period in which the two imperial lines, Jimyōin-tō and Daikakuji-tō, alternately took the throne."
   }
  ]
 }
