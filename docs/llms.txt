@@ -4,7 +4,7 @@
 
 引用時は項目ID・確度・各項目の最終確認日を添えてください。確度の定義: 確認済=独立した複数の出典が一致、要確認=単一系統・本文未読・見解が分かれる、確認不可=裏付け未発見。
 
-データ: https://masakami108-cpu.github.io/dento-rekishi-db/data.json
+データ: https://shineihub.github.io/dento-rekishi-db/data.json
 
 - G01 渡来人と古代の移民 [古代・要確認] 最終確認日 2026-11-20
 - G02 日本人の成り立ち(ゲノム研究) [古代・要確認] 最終確認日 2026-10-24
